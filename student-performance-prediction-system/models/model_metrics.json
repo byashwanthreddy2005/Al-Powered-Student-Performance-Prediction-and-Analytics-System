@@ -1,0 +1,49 @@
+{
+  "status": "ready",
+  "active_model": "Linear Regression",
+  "model_version": "rf-v1.0",
+  "dataset_size": 1200,
+  "train_samples": 960,
+  "test_samples": 240,
+  "feature_columns": [
+    "attendance",
+    "previous_marks",
+    "study_hours",
+    "assignment_completion"
+  ],
+  "target_column": "final_marks",
+  "metrics": {
+    "mae": 2.975,
+    "rmse": 3.745,
+    "r2_score": 0.9032,
+    "cv_mean_r2": 0.8958,
+    "cv_std_r2": 0.0093
+  },
+  "feature_importance": {
+    "attendance": 6.21,
+    "previous_marks": 36.92,
+    "study_hours": 5.26,
+    "assignment_completion": 51.61
+  },
+  "comparison": [
+    {
+      "model_name": "Linear Regression",
+      "mae": 2.975,
+      "rmse": 3.745,
+      "r2_score": 0.9032,
+      "cv_mean_r2": 0.8958,
+      "cv_std_r2": 0.0093
+    },
+    {
+      "model_name": "Random Forest Regressor",
+      "mae": 3.414,
+      "rmse": 4.227,
+      "r2_score": 0.8767,
+      "cv_mean_r2": 0.8753,
+      "cv_std_r2": 0.0159
+    }
+  ],
+  "training_timestamp": "2026-11-01T10:17:16.816370+00:00",
+  "is_demo": true,
+  "description": "Supervised regression pipeline trained on synthetic student academic features (80/20 train-test split, 5-fold CV)."
+}

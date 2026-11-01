@@ -1,0 +1,1201 @@
+student_id,name,class_name,section,attendance,previous_marks,study_hours,assignment_completion,final_marks
+STU-1001,Amit Chatterjee,AI & DS - Sem 5,C,91.8,73.7,3.9,71.3,75.3
+STU-1002,Meera Kulkarni,Grade 11,B,67.7,58.2,1.9,29.3,51.8
+STU-1003,Deepak Ghosh,Grade 11,C,86.1,84.5,3.7,57.0,72.3
+STU-1004,Aditya Kulkarni,Grade 10,C,67.6,50.4,0.5,41.7,46.2
+STU-1005,Riyaz Bhatia,Grade 10,B,73.5,70.8,3.1,51.8,64.7
+STU-1006,Varun Iyer,AI & DS - Sem 3,A,89.6,73.7,3.8,54.4,71.0
+STU-1007,Harish Mehta,AI & DS - Sem 5,A,73.7,58.1,2.6,53.2,58.4
+STU-1008,Vikram Kapoor,Grade 11,A,68.0,67.0,1.4,45.1,60.3
+STU-1009,Meera Ghosh,Grade 12,A,78.0,74.4,4.4,54.9,63.9
+STU-1010,Deepak Malhotra,Grade 11,B,63.0,52.5,2.7,52.6,53.4
+STU-1011,Rajesh Singh,AI & DS - Sem 5,C,74.9,58.0,2.1,49.4,58.6
+STU-1012,Sneha Mishra,AI & DS - Sem 3,B,78.5,62.2,2.2,47.9,58.4
+STU-1013,Deepak Yadav,Grade 10,A,57.2,36.4,0.5,33.1,34.6
+STU-1014,Bhavna Mahammad,Grade 10,A,75.7,72.7,2.4,44.9,61.5
+STU-1015,Karan Ghosh,Grade 10,B,70.8,63.6,2.4,43.3,53.2
+STU-1016,Shreya Gupta,AI & DS - Sem 3,C,75.2,54.7,3.8,61.7,64.3
+STU-1017,Arjun Saxena,Grade 10,A,64.1,57.7,1.9,32.8,48.1
+STU-1018,Bhavna Nair,AI & DS - Sem 3,A,79.5,53.2,2.1,53.3,49.6
+STU-1019,Shreya Saxena,Grade 10,A,72.0,55.8,4.1,60.9,55.9
+STU-1020,Rohan Chatterjee,Grade 10,C,95.4,80.8,4.2,65.9,68.1
+STU-1021,Riyaz Saxena,AI & DS - Sem 5,A,65.2,61.4,1.3,33.7,52.6
+STU-1022,Divya Ghosh,Grade 12,B,63.2,57.8,2.7,45.1,54.9
+STU-1023,Tara Kulkarni,Grade 10,C,64.5,46.8,2.7,44.6,47.3
+STU-1024,Karan Deshmukh,AI & DS - Sem 3,B,80.2,63.9,4.0,63.3,63.2
+STU-1025,Rohan Bose,Grade 10,B,80.1,64.6,3.7,57.0,58.5
+STU-1026,Ananya Das,Grade 10,A,74.3,61.8,4.3,48.7,58.0
+STU-1027,Swati Joshi,AI & DS - Sem 3,B,70.7,52.5,4.6,50.0,61.0
+STU-1028,Meera Das,Grade 11,B,65.7,77.7,3.3,53.8,62.3
+STU-1029,Bhavna Chatterjee,Grade 12,C,71.7,76.4,2.9,45.2,59.1
+STU-1030,Gaurav Malhotra,AI & DS - Sem 3,A,61.2,52.1,2.2,51.2,50.1
+STU-1031,Vikram Aggarwal,AI & DS - Sem 5,C,72.5,64.9,3.3,49.7,56.5
+STU-1032,Vikram Deshmukh,Grade 11,B,42.9,30.8,0.5,31.9,24.0
+STU-1033,Vikram Reddy,Grade 11,C,100.0,99.0,8.3,89.1,100.0
+STU-1034,Ritu Mahammad,AI & DS - Sem 3,B,69.2,59.5,2.7,52.4,57.0
+STU-1035,Komal Kapoor,Grade 12,A,73.6,68.0,2.4,44.5,56.0
+STU-1036,Arjun Pandey,AI & DS - Sem 3,A,77.1,64.4,2.1,39.1,50.5
+STU-1037,Amit Mahammad,AI & DS - Sem 5,A,91.2,76.8,3.5,59.7,82.6
+STU-1038,Kunal Aggarwal,AI & DS - Sem 5,C,78.3,71.1,5.7,60.5,69.7
+STU-1039,Vikram Patel,AI & DS - Sem 3,A,66.4,63.0,2.2,43.6,53.5
+STU-1040,Nandini Nair,AI & DS - Sem 5,B,81.5,78.0,3.3,57.8,62.0
+STU-1041,Aarav Aggarwal,AI & DS - Sem 3,A,80.2,48.5,4.1,57.0,57.5
+STU-1042,Anjali Yadav,Grade 11,A,85.6,67.5,4.7,61.2,58.8
+STU-1043,Kunal Mahammad,Grade 10,B,84.9,83.2,5.2,64.5,75.3
+STU-1044,Sameer Chopra,AI & DS - Sem 3,A,75.3,73.1,3.5,60.6,62.5
+STU-1045,Arjun Deshmukh,Grade 11,B,87.9,87.0,5.3,57.2,74.6
+STU-1046,Anjali Mishra,AI & DS - Sem 5,A,61.8,74.8,1.7,35.3,52.3
+STU-1047,Riyaz Pandey,Grade 11,C,92.3,80.4,4.1,64.2,73.0
+STU-1048,Aarav Bose,Grade 10,C,71.8,48.5,2.6,39.6,46.7
+STU-1049,Sneha Mishra,Grade 10,A,90.3,82.8,3.6,54.5,73.5
+STU-1050,Komal Verma,AI & DS - Sem 3,C,73.4,81.0,3.9,60.1,68.7
+STU-1051,Vikram Yadav,Grade 12,A,89.3,70.2,2.4,61.2,67.3
+STU-1052,Amit Gupta,AI & DS - Sem 3,B,72.2,72.5,2.7,46.9,62.6
+STU-1053,Nandini Sharma,AI & DS - Sem 3,B,86.2,78.7,5.2,65.1,68.1
+STU-1054,Tara Gupta,AI & DS - Sem 5,B,74.9,79.6,4.6,52.6,70.1
+STU-1055,Kunal Patel,Grade 12,C,71.6,54.0,1.6,42.5,45.6
+STU-1056,Shreya Bhatia,Grade 11,A,92.0,85.4,5.8,71.5,80.0
+STU-1057,Aarav Iyer,Grade 10,C,67.7,60.5,0.7,29.4,51.8
+STU-1058,Swati Verma,AI & DS - Sem 5,B,82.8,92.8,5.0,63.3,74.5
+STU-1059,Riyaz Menon,Grade 10,C,74.2,59.6,2.6,44.9,53.5
+STU-1060,Karan Joshi,AI & DS - Sem 3,A,89.0,74.4,4.6,77.1,78.4
+STU-1061,Neha Iyer,Grade 10,C,55.9,52.6,2.5,39.1,40.2
+STU-1062,Sneha Rao,Grade 10,A,58.4,70.5,3.3,53.0,58.0
+STU-1063,Ananya Mehta,Grade 12,B,78.1,74.9,3.5,56.2,55.3
+STU-1064,Divya Mehta,Grade 10,B,75.3,70.2,3.2,56.5,56.3
+STU-1065,Sneha Bose,Grade 11,A,80.0,84.1,3.5,58.4,75.6
+STU-1066,Swati Gupta,Grade 12,B,82.1,58.8,1.7,49.6,56.8
+STU-1067,Harish Iyer,Grade 12,A,86.6,73.7,4.7,67.7,67.2
+STU-1068,Priya Pillai,AI & DS - Sem 5,B,82.8,69.0,3.8,49.1,62.4
+STU-1069,Gaurav Mehta,Grade 10,A,55.0,50.2,2.1,38.2,38.4
+STU-1070,Sneha Gupta,Grade 12,C,91.0,88.3,4.4,69.4,82.2
+STU-1071,Deepak Singh,Grade 10,B,74.9,85.1,4.1,56.3,66.5
+STU-1072,Sunita Joshi,AI & DS - Sem 3,C,75.1,67.7,2.1,51.3,63.5
+STU-1073,Sunita Reddy,Grade 11,C,88.0,80.3,5.0,64.5,69.4
+STU-1074,Shreya Bhatia,Grade 12,B,95.9,68.8,3.6,73.1,73.5
+STU-1075,Rajesh Iyer,Grade 11,A,100.0,98.3,5.0,67.6,84.7
+STU-1076,Sameer Das,AI & DS - Sem 3,B,78.9,56.5,2.2,41.4,58.6
+STU-1077,Rahul Kapoor,AI & DS - Sem 3,A,66.6,76.0,4.9,61.7,64.2
+STU-1078,Karan Chopra,Grade 12,C,72.1,49.1,3.1,48.8,54.8
+STU-1079,Meera Das,AI & DS - Sem 3,B,71.5,52.0,2.1,45.2,50.9
+STU-1080,Aarav Joshi,Grade 12,C,79.4,75.3,2.3,55.5,62.0
+STU-1081,Nikhil Bose,Grade 10,B,90.6,61.4,6.2,81.2,74.1
+STU-1082,Priya Sharma,AI & DS - Sem 5,C,78.5,71.4,2.0,46.4,59.1
+STU-1083,Anjali Bose,AI & DS - Sem 5,A,65.4,50.3,0.5,26.4,45.0
+STU-1084,Rajesh Patel,Grade 12,A,92.8,94.4,5.7,70.7,80.1
+STU-1085,Tanvi Nair,Grade 11,C,84.8,83.8,5.0,66.0,78.6
+STU-1086,Arjun Kapoor,Grade 11,C,67.8,43.2,3.3,38.3,53.6
+STU-1087,Riyaz Chatterjee,Grade 11,B,75.0,65.8,3.0,44.3,57.6
+STU-1088,Karan Bhatia,Grade 10,B,70.4,54.2,1.8,43.4,51.2
+STU-1089,Tara Singh,AI & DS - Sem 5,C,86.1,69.3,4.8,63.9,67.1
+STU-1090,Nandini Das,AI & DS - Sem 3,C,62.4,52.7,3.2,45.1,59.4
+STU-1091,Kavya Joshi,Grade 10,B,83.8,72.3,4.1,61.1,67.4
+STU-1092,Harish Kulkarni,Grade 12,C,80.5,86.2,3.3,65.5,70.8
+STU-1093,Meera Rao,Grade 10,B,72.2,77.0,2.7,54.0,60.3
+STU-1094,Rahul Malhotra,Grade 10,A,91.5,80.4,5.2,71.6,79.6
+STU-1095,Shruti Gupta,Grade 11,C,79.7,80.1,6.2,71.2,81.5
+STU-1096,Karan Singh,AI & DS - Sem 5,B,76.4,70.0,4.1,55.2,64.9
+STU-1097,Shreya Mehta,Grade 11,C,58.4,48.7,0.7,31.4,39.7
+STU-1098,Gaurav Pandey,Grade 11,C,76.4,73.9,3.0,52.2,61.3
+STU-1099,Riyaz Deshmukh,AI & DS - Sem 3,A,74.4,78.0,2.8,48.9,61.4
+STU-1100,Priya Pandey,Grade 10,A,84.9,69.4,4.9,68.1,70.7
+STU-1101,Riyaz Ghosh,AI & DS - Sem 3,A,81.7,76.1,2.5,49.9,69.2
+STU-1102,Amit Chatterjee,AI & DS - Sem 5,A,70.7,55.3,2.1,39.8,47.4
+STU-1103,Kunal Saxena,Grade 10,A,77.4,76.9,2.5,54.9,63.1
+STU-1104,Swati Chopra,AI & DS - Sem 5,B,96.7,71.4,4.8,67.4,71.5
+STU-1105,Rohan Mahammad,AI & DS - Sem 5,A,70.0,69.3,2.4,37.3,56.2
+STU-1106,Riyaz Bose,Grade 11,B,89.2,79.1,5.1,66.6,68.6
+STU-1107,Rohan Pillai,Grade 11,B,87.9,68.9,4.1,53.7,61.7
+STU-1108,Neha Ghosh,AI & DS - Sem 5,B,80.7,74.3,4.9,63.2,73.7
+STU-1109,Komal Verma,Grade 12,A,78.2,78.0,5.0,65.7,73.8
+STU-1110,Kunal Kulkarni,Grade 11,C,72.7,64.0,2.3,47.8,55.5
+STU-1111,Tanvi Reddy,Grade 11,B,75.5,63.0,0.8,39.9,48.3
+STU-1112,Swati Joshi,Grade 12,B,83.8,73.9,4.3,65.1,72.7
+STU-1113,Ritu Reddy,Grade 11,C,75.7,72.0,5.6,60.1,76.4
+STU-1114,Riyaz Chatterjee,AI & DS - Sem 5,C,81.9,79.8,3.5,57.1,73.1
+STU-1115,Harish Pandey,Grade 12,B,75.3,62.6,2.8,48.5,63.2
+STU-1116,Aarav Das,AI & DS - Sem 3,B,65.6,60.6,2.4,48.4,52.1
+STU-1117,Isha Ghosh,AI & DS - Sem 3,B,66.4,64.0,3.2,44.4,59.3
+STU-1118,Swati Mishra,Grade 11,C,65.3,57.7,3.8,42.3,55.1
+STU-1119,Meera Aggarwal,AI & DS - Sem 5,A,78.1,63.8,1.5,47.4,55.3
+STU-1120,Nandini Chopra,AI & DS - Sem 5,A,82.3,71.9,3.3,54.7,63.3
+STU-1121,Bhavna Mehta,AI & DS - Sem 3,A,74.4,66.8,1.3,41.8,51.7
+STU-1122,Manish Joshi,AI & DS - Sem 3,B,66.0,67.8,2.9,43.2,58.4
+STU-1123,Komal Chopra,AI & DS - Sem 5,C,83.8,79.2,5.0,66.3,73.2
+STU-1124,Neha Bose,AI & DS - Sem 3,B,89.3,86.4,3.8,72.5,81.1
+STU-1125,Meera Das,Grade 12,C,91.3,83.2,4.9,66.1,78.5
+STU-1126,Sunita Joshi,AI & DS - Sem 5,C,70.9,53.9,3.9,50.6,67.4
+STU-1127,Anjali Kapoor,Grade 12,C,62.8,66.4,2.6,48.8,54.4
+STU-1128,Rajesh Reddy,AI & DS - Sem 3,B,85.1,80.6,3.2,62.3,70.0
+STU-1129,Tara Reddy,Grade 11,C,83.7,80.0,3.2,63.1,72.7
+STU-1130,Riyaz Das,AI & DS - Sem 3,B,66.9,61.8,3.9,53.7,56.9
+STU-1131,Pooja Mahammad,Grade 10,B,73.2,65.7,2.2,55.1,64.0
+STU-1132,Sunita Joshi,Grade 12,B,61.0,43.4,2.2,43.6,39.1
+STU-1133,Aarav Pillai,AI & DS - Sem 3,A,71.3,59.0,1.8,41.4,58.3
+STU-1134,Varun Gupta,AI & DS - Sem 3,C,69.5,64.7,2.4,44.9,51.3
+STU-1135,Vikram Sharma,Grade 10,C,85.8,84.1,1.8,61.4,68.0
+STU-1136,Ritu Singh,AI & DS - Sem 5,B,73.5,71.0,5.8,61.9,69.8
+STU-1137,Tara Sharma,Grade 11,C,89.8,73.4,3.6,58.9,68.9
+STU-1138,Neha Pillai,AI & DS - Sem 3,A,81.9,77.8,5.0,54.2,74.0
+STU-1139,Ananya Bose,Grade 10,A,82.3,81.1,5.8,70.1,77.9
+STU-1140,Nandini Bhatia,AI & DS - Sem 3,B,82.2,75.7,5.1,62.5,75.2
+STU-1141,Aditya Pillai,AI & DS - Sem 5,C,97.8,70.6,5.8,86.1,83.8
+STU-1142,Bhavna Choudhury,Grade 12,B,72.5,76.4,5.0,47.5,63.7
+STU-1143,Shreya Iyer,Grade 11,B,64.2,35.6,1.1,45.2,41.5
+STU-1144,Sameer Singh,Grade 12,C,79.7,62.1,3.1,46.8,58.1
+STU-1145,Pooja Pandey,AI & DS - Sem 3,A,60.4,58.2,3.6,51.0,48.3
+STU-1146,Tanvi Verma,Grade 10,A,66.6,60.5,1.4,40.1,44.8
+STU-1147,Aditya Mahammad,Grade 10,B,68.4,56.2,3.5,44.9,54.3
+STU-1148,Siddharth Singh,AI & DS - Sem 5,B,89.6,76.2,5.3,72.3,74.9
+STU-1149,Swati Saxena,Grade 10,B,61.7,62.7,2.9,49.0,56.6
+STU-1150,Nikhil Reddy,Grade 11,A,65.1,58.5,1.8,53.0,45.0
+STU-1151,Meera Saxena,AI & DS - Sem 5,C,65.9,52.3,3.3,45.1,52.2
+STU-1152,Kunal Verma,Grade 12,C,81.0,69.2,2.0,52.3,66.5
+STU-1153,Amit Joshi,AI & DS - Sem 3,A,62.2,52.4,2.0,36.3,46.4
+STU-1154,Vikram Deshmukh,Grade 12,A,70.2,68.4,4.8,49.9,62.0
+STU-1155,Ananya Singh,AI & DS - Sem 3,B,56.0,41.6,1.4,34.9,40.6
+STU-1156,Isha Kapoor,Grade 10,C,78.8,66.5,3.1,47.9,59.0
+STU-1157,Vikram Chatterjee,AI & DS - Sem 3,A,85.2,64.3,3.7,56.6,65.2
+STU-1158,Isha Deshmukh,AI & DS - Sem 3,B,62.3,51.3,1.6,38.7,39.4
+STU-1159,Rohan Chatterjee,Grade 11,B,82.9,78.7,4.3,58.9,72.2
+STU-1160,Nandini Bose,AI & DS - Sem 5,C,93.0,67.9,4.2,68.3,68.5
+STU-1161,Varun Kulkarni,Grade 12,B,68.7,63.7,3.4,50.3,60.5
+STU-1162,Manish Reddy,Grade 10,B,77.5,74.2,4.6,59.1,64.1
+STU-1163,Priya Pillai,AI & DS - Sem 3,A,80.4,62.8,3.4,41.1,59.5
+STU-1164,Sneha Pandey,Grade 12,B,71.5,56.6,0.5,35.2,44.5
+STU-1165,Arjun Bose,AI & DS - Sem 5,C,68.6,59.6,2.1,45.3,50.1
+STU-1166,Manish Reddy,AI & DS - Sem 3,C,64.9,56.4,2.1,46.7,52.3
+STU-1167,Rajesh Chatterjee,AI & DS - Sem 5,C,54.0,58.4,2.8,36.7,38.4
+STU-1168,Nandini Mehta,AI & DS - Sem 5,B,72.1,47.9,3.2,52.5,56.7
+STU-1169,Tanvi Rao,AI & DS - Sem 5,A,70.1,76.5,3.4,50.2,59.4
+STU-1170,Priya Verma,AI & DS - Sem 3,B,54.5,37.4,0.5,30.9,35.3
+STU-1171,Karan Mahammad,Grade 10,A,83.9,65.4,2.3,63.1,60.1
+STU-1172,Tara Iyer,Grade 12,B,97.3,82.5,4.2,69.8,74.8
+STU-1173,Aarav Singh,AI & DS - Sem 5,A,88.8,65.4,4.8,67.2,69.5
+STU-1174,Varun Menon,Grade 12,C,90.5,87.0,4.0,56.1,80.0
+STU-1175,Rohan Choudhury,AI & DS - Sem 3,B,73.5,65.5,3.7,51.9,63.2
+STU-1176,Sunita Deshmukh,Grade 12,B,100.0,88.5,5.5,70.5,84.5
+STU-1177,Varun Choudhury,Grade 11,C,68.6,52.4,4.0,49.7,51.7
+STU-1178,Ritu Kulkarni,AI & DS - Sem 3,C,84.2,76.5,3.2,55.7,68.1
+STU-1179,Siddharth Yadav,AI & DS - Sem 5,B,85.1,77.4,5.0,66.0,68.5
+STU-1180,Kunal Aggarwal,AI & DS - Sem 3,A,73.9,58.4,3.1,50.8,58.5
+STU-1181,Gaurav Mahammad,AI & DS - Sem 3,A,84.4,88.2,6.3,71.4,77.8
+STU-1182,Kunal Rao,Grade 11,B,68.4,62.2,3.7,59.2,61.1
+STU-1183,Amit Ghosh,Grade 12,B,81.3,80.4,4.7,57.9,73.8
+STU-1184,Tara Kulkarni,Grade 10,C,84.4,76.4,1.1,45.7,57.1
+STU-1185,Priya Chatterjee,Grade 11,B,72.6,59.4,0.9,46.2,48.9
+STU-1186,Ritu Choudhury,AI & DS - Sem 3,A,72.8,71.0,4.6,67.4,72.0
+STU-1187,Tara Yadav,Grade 11,C,78.4,71.7,4.3,57.7,64.8
+STU-1188,Shruti Das,AI & DS - Sem 5,C,85.8,63.5,3.2,52.9,64.9
+STU-1189,Anjali Ghosh,Grade 12,A,81.6,81.3,2.6,50.8,67.0
+STU-1190,Sneha Mehta,AI & DS - Sem 3,C,68.8,75.6,5.2,66.2,72.0
+STU-1191,Nikhil Kapoor,Grade 12,B,62.2,53.2,0.5,36.8,43.1
+STU-1192,Sunita Gupta,Grade 11,B,88.2,77.7,3.0,54.6,69.6
+STU-1193,Ayush Chatterjee,Grade 10,A,61.9,59.4,2.1,36.2,45.5
+STU-1194,Ayush Kapoor,Grade 10,A,66.9,66.4,4.4,46.7,55.6
+STU-1195,Deepak Nair,Grade 11,C,80.1,59.4,3.0,57.5,54.7
+STU-1196,Shreya Rao,Grade 10,C,77.5,66.4,3.6,57.3,70.0
+STU-1197,Swati Pandey,AI & DS - Sem 5,B,68.1,80.6,5.8,53.5,71.8
+STU-1198,Tara Sharma,Grade 11,A,73.0,71.2,3.7,52.5,67.0
+STU-1199,Amit Aggarwal,AI & DS - Sem 3,C,87.6,79.5,4.9,62.7,76.2
+STU-1200,Aditya Kulkarni,AI & DS - Sem 3,B,79.9,72.1,4.8,59.7,70.4
+STU-1201,Komal Das,AI & DS - Sem 3,B,100.0,86.5,4.8,67.8,74.6
+STU-1202,Riyaz Gupta,AI & DS - Sem 3,C,80.6,64.0,1.6,52.1,54.9
+STU-1203,Sunita Rao,AI & DS - Sem 5,C,70.6,55.7,3.0,58.9,49.1
+STU-1204,Ananya Nair,Grade 12,A,77.3,61.8,2.6,51.8,60.7
+STU-1205,Rajesh Reddy,Grade 12,A,86.1,67.8,3.8,54.8,66.9
+STU-1206,Nandini Das,Grade 12,C,73.7,69.3,4.3,57.7,64.2
+STU-1207,Anjali Pandey,Grade 10,B,92.9,86.1,3.6,61.8,79.8
+STU-1208,Sameer Mahammad,Grade 11,B,79.0,65.8,2.1,46.1,56.0
+STU-1209,Tanvi Das,Grade 12,A,80.2,94.2,6.1,65.2,83.2
+STU-1210,Manish Chatterjee,AI & DS - Sem 5,B,77.7,78.7,5.2,59.7,74.2
+STU-1211,Rohan Reddy,Grade 11,A,62.8,70.2,2.3,40.8,55.8
+STU-1212,Rahul Patel,AI & DS - Sem 3,A,83.5,68.8,2.7,47.3,59.0
+STU-1213,Neha Yadav,Grade 12,C,71.1,64.1,3.0,52.6,56.5
+STU-1214,Nikhil Bhatia,Grade 12,C,86.2,70.5,5.2,63.8,74.1
+STU-1215,Pooja Mahammad,AI & DS - Sem 5,A,73.5,67.2,2.7,53.0,57.3
+STU-1216,Riyaz Malhotra,Grade 12,B,95.6,77.8,4.3,67.5,79.3
+STU-1217,Vikram Saxena,AI & DS - Sem 3,A,70.2,63.7,2.8,48.6,60.4
+STU-1218,Gaurav Mehta,AI & DS - Sem 3,B,85.3,89.5,5.2,76.6,76.3
+STU-1219,Nandini Chatterjee,Grade 10,A,95.0,81.2,4.5,63.3,72.1
+STU-1220,Deepak Singh,Grade 10,A,60.2,61.8,2.3,39.5,51.8
+STU-1221,Aarav Pillai,AI & DS - Sem 5,A,64.2,43.5,2.5,43.8,40.3
+STU-1222,Nandini Choudhury,Grade 10,B,80.4,69.4,2.1,42.4,57.3
+STU-1223,Rahul Mahammad,AI & DS - Sem 5,A,70.8,58.9,0.5,37.6,52.0
+STU-1224,Arjun Bhatia,Grade 12,C,68.2,55.3,1.3,44.1,48.2
+STU-1225,Divya Pandey,Grade 10,A,84.4,73.3,4.7,68.7,73.8
+STU-1226,Sunita Bose,AI & DS - Sem 5,C,100.0,79.2,5.4,80.0,78.2
+STU-1227,Ananya Pandey,Grade 10,B,73.3,82.2,5.4,62.9,75.0
+STU-1228,Deepak Kulkarni,Grade 11,A,71.3,58.5,2.9,62.1,55.9
+STU-1229,Shreya Rao,AI & DS - Sem 5,B,65.5,51.6,2.4,45.9,52.7
+STU-1230,Tanvi Reddy,Grade 12,A,60.8,56.0,3.7,49.7,55.3
+STU-1231,Anjali Deshmukh,Grade 10,C,73.0,75.5,6.1,66.2,68.2
+STU-1232,Rajesh Mahammad,Grade 10,A,77.8,52.2,3.5,56.8,62.2
+STU-1233,Nandini Rao,Grade 11,B,87.9,88.5,4.4,63.8,74.8
+STU-1234,Arjun Joshi,AI & DS - Sem 3,B,64.7,45.1,1.9,40.4,45.5
+STU-1235,Gaurav Gupta,AI & DS - Sem 3,B,53.3,54.2,0.5,29.8,35.9
+STU-1236,Tara Joshi,AI & DS - Sem 5,C,79.7,66.5,3.7,56.7,58.4
+STU-1237,Sameer Deshmukh,Grade 12,C,67.2,56.3,1.7,44.4,47.4
+STU-1238,Riyaz Mishra,Grade 11,B,99.6,86.9,4.4,69.4,77.8
+STU-1239,Sunita Aggarwal,Grade 12,C,90.5,68.8,3.9,59.5,71.2
+STU-1240,Divya Gupta,Grade 10,C,78.8,78.9,3.8,47.6,71.1
+STU-1241,Nandini Chopra,Grade 10,B,80.9,48.6,5.6,70.9,64.5
+STU-1242,Pooja Ghosh,Grade 11,C,100.0,84.1,6.3,73.2,80.6
+STU-1243,Nandini Patel,Grade 12,A,96.0,99.0,5.7,78.4,92.3
+STU-1244,Sameer Saxena,AI & DS - Sem 3,B,79.6,90.0,4.9,67.9,71.6
+STU-1245,Varun Rao,AI & DS - Sem 5,A,83.1,75.2,4.5,60.7,66.7
+STU-1246,Tara Bhatia,AI & DS - Sem 3,B,98.4,99.0,6.3,79.5,93.2
+STU-1247,Karan Singh,Grade 11,B,63.6,69.2,2.6,38.0,57.0
+STU-1248,Tara Nair,Grade 12,C,79.7,64.6,3.8,49.2,60.9
+STU-1249,Shruti Kulkarni,AI & DS - Sem 5,A,63.1,59.3,3.5,50.7,56.6
+STU-1250,Kavya Kapoor,AI & DS - Sem 3,B,74.2,75.1,2.8,52.1,64.5
+STU-1251,Meera Yadav,AI & DS - Sem 3,A,80.8,63.8,3.4,50.9,64.4
+STU-1252,Varun Pillai,Grade 10,B,88.2,81.1,4.4,59.1,82.2
+STU-1253,Sneha Rao,AI & DS - Sem 3,A,75.7,72.6,3.4,57.4,64.8
+STU-1254,Siddharth Menon,Grade 10,B,78.4,73.9,3.3,41.9,61.6
+STU-1255,Deepak Pillai,Grade 11,C,74.5,74.9,4.0,50.0,68.6
+STU-1256,Sameer Chatterjee,Grade 12,C,73.5,65.6,2.8,35.2,55.5
+STU-1257,Tanvi Bhatia,Grade 12,A,83.6,79.2,5.2,63.3,81.6
+STU-1258,Meera Sharma,AI & DS - Sem 3,A,80.2,77.6,3.6,54.6,74.6
+STU-1259,Aarav Reddy,AI & DS - Sem 5,C,70.5,62.3,1.9,47.5,52.1
+STU-1260,Siddharth Rao,Grade 11,B,78.0,73.9,3.3,58.4,61.7
+STU-1261,Kunal Reddy,Grade 11,B,74.4,59.3,2.7,51.5,56.4
+STU-1262,Deepak Aggarwal,AI & DS - Sem 5,B,85.5,73.3,3.6,59.5,73.6
+STU-1263,Divya Saxena,Grade 12,A,77.7,70.9,3.8,54.8,70.1
+STU-1264,Meera Ghosh,AI & DS - Sem 3,C,79.5,67.7,5.9,67.2,68.8
+STU-1265,Priya Das,Grade 10,C,80.7,72.7,3.4,52.3,62.2
+STU-1266,Shreya Pillai,Grade 11,C,68.8,58.8,3.2,56.7,53.0
+STU-1267,Aarav Choudhury,AI & DS - Sem 3,B,61.0,67.1,3.7,41.7,55.5
+STU-1268,Nandini Ghosh,Grade 11,C,78.6,73.7,4.3,52.1,66.9
+STU-1269,Ayush Yadav,Grade 12,B,83.4,69.2,4.0,47.8,66.4
+STU-1270,Sneha Malhotra,AI & DS - Sem 3,C,54.9,39.7,1.1,31.3,31.1
+STU-1271,Tanvi Menon,Grade 11,B,78.6,53.9,3.9,62.1,58.6
+STU-1272,Shruti Reddy,Grade 10,C,71.7,66.4,2.7,46.4,57.3
+STU-1273,Kavya Reddy,AI & DS - Sem 5,B,75.4,70.9,2.9,46.5,57.2
+STU-1274,Harish Patel,AI & DS - Sem 3,A,80.2,50.5,5.2,59.8,62.1
+STU-1275,Shruti Patel,Grade 12,A,59.4,56.7,0.5,37.6,43.3
+STU-1276,Aarav Das,Grade 11,A,84.5,76.0,3.2,54.8,61.2
+STU-1277,Arjun Mahammad,Grade 12,A,89.7,80.4,4.0,61.9,76.2
+STU-1278,Priya Singh,Grade 11,C,66.1,47.2,0.9,34.9,43.0
+STU-1279,Deepak Reddy,Grade 11,C,82.4,62.9,4.4,61.3,70.0
+STU-1280,Gaurav Kulkarni,AI & DS - Sem 3,C,79.3,76.2,5.4,60.7,71.8
+STU-1281,Sneha Rao,Grade 10,B,67.2,61.4,2.6,42.3,49.6
+STU-1282,Sunita Mehta,Grade 10,A,90.5,69.4,3.2,57.9,63.2
+STU-1283,Sunita Nair,AI & DS - Sem 5,B,96.8,87.6,4.6,64.9,81.0
+STU-1284,Rahul Choudhury,Grade 12,B,56.0,44.2,1.4,35.2,36.1
+STU-1285,Aarav Pillai,Grade 12,A,91.6,84.8,4.5,71.5,81.3
+STU-1286,Karan Verma,Grade 12,A,63.8,64.5,3.5,49.9,63.4
+STU-1287,Aarav Choudhury,Grade 12,B,75.9,68.7,5.2,61.0,69.0
+STU-1288,Priya Mahammad,Grade 12,A,86.8,81.0,3.6,58.4,71.8
+STU-1289,Riyaz Menon,AI & DS - Sem 3,C,79.1,76.4,5.0,66.9,69.6
+STU-1290,Rajesh Iyer,Grade 12,B,72.1,62.8,2.5,53.5,51.3
+STU-1291,Manish Rao,Grade 10,B,68.7,48.2,1.6,47.7,43.2
+STU-1292,Ananya Yadav,AI & DS - Sem 3,A,95.1,76.1,5.4,79.5,76.9
+STU-1293,Ritu Pandey,Grade 11,C,78.4,72.0,3.1,52.0,59.5
+STU-1294,Vikram Bose,Grade 11,A,66.7,70.1,2.9,54.9,60.1
+STU-1295,Ananya Mishra,Grade 11,B,79.5,68.5,3.7,57.4,61.2
+STU-1296,Ritu Patel,Grade 11,B,93.7,89.2,3.1,70.5,74.8
+STU-1297,Sneha Malhotra,Grade 12,C,86.0,82.5,4.8,66.6,70.2
+STU-1298,Tara Yadav,Grade 10,A,73.9,56.3,3.6,56.0,57.5
+STU-1299,Sunita Malhotra,AI & DS - Sem 5,B,73.4,74.1,3.9,55.4,63.5
+STU-1300,Kunal Mishra,AI & DS - Sem 3,A,57.5,48.8,0.8,27.6,42.0
+STU-1301,Amit Choudhury,AI & DS - Sem 5,C,73.7,65.7,3.9,47.4,58.8
+STU-1302,Manish Chopra,Grade 11,B,83.3,74.0,4.6,64.8,65.9
+STU-1303,Aarav Singh,Grade 12,B,78.6,70.5,4.2,55.2,69.5
+STU-1304,Anjali Sharma,AI & DS - Sem 5,A,82.3,85.3,4.9,79.5,78.0
+STU-1305,Rajesh Mehta,AI & DS - Sem 3,B,77.6,59.6,2.8,51.5,50.1
+STU-1306,Swati Reddy,AI & DS - Sem 3,C,76.8,78.6,4.3,65.2,70.6
+STU-1307,Anjali Kulkarni,Grade 11,C,86.3,85.1,4.1,70.9,68.2
+STU-1308,Kunal Kulkarni,AI & DS - Sem 5,C,76.0,65.9,3.4,46.4,65.1
+STU-1309,Amit Saxena,Grade 10,A,68.2,66.5,5.8,62.0,64.9
+STU-1310,Gaurav Choudhury,AI & DS - Sem 3,C,49.7,28.1,0.5,23.3,33.9
+STU-1311,Gaurav Joshi,Grade 10,C,89.1,67.5,3.9,58.2,65.7
+STU-1312,Sunita Verma,Grade 10,B,68.9,51.5,1.3,36.6,43.5
+STU-1313,Anjali Mahammad,Grade 12,A,84.5,86.8,5.8,75.8,78.5
+STU-1314,Harish Bose,Grade 11,C,100.0,92.3,7.6,83.7,94.3
+STU-1315,Swati Das,Grade 10,C,75.4,77.8,4.4,62.6,70.5
+STU-1316,Rohan Mehta,AI & DS - Sem 5,A,75.2,78.1,4.7,64.0,73.4
+STU-1317,Harish Pillai,Grade 10,C,68.2,70.0,5.8,58.4,71.3
+STU-1318,Varun Patel,Grade 12,A,82.5,79.3,5.3,68.4,76.3
+STU-1319,Tanvi Verma,AI & DS - Sem 5,A,69.3,64.0,3.9,47.8,64.1
+STU-1320,Arjun Das,Grade 12,C,82.0,77.9,5.6,62.4,74.3
+STU-1321,Varun Saxena,Grade 10,A,90.1,87.9,5.5,64.1,79.4
+STU-1322,Rajesh Menon,AI & DS - Sem 3,A,80.9,78.5,3.7,54.7,65.2
+STU-1323,Ayush Patel,AI & DS - Sem 5,B,84.1,63.9,4.0,69.1,65.7
+STU-1324,Isha Iyer,Grade 12,A,65.1,64.8,2.4,36.5,52.6
+STU-1325,Karan Das,Grade 11,B,82.3,87.4,5.2,69.2,73.4
+STU-1326,Rohan Gupta,Grade 12,B,66.6,68.9,4.7,58.9,58.8
+STU-1327,Aditya Aggarwal,Grade 11,C,84.6,76.9,4.1,64.1,73.5
+STU-1328,Ritu Deshmukh,Grade 10,A,60.6,54.9,1.3,38.4,50.0
+STU-1329,Sneha Pillai,Grade 12,C,80.9,74.5,2.4,55.0,66.0
+STU-1330,Kavya Patel,AI & DS - Sem 5,C,66.2,56.6,2.2,44.7,56.3
+STU-1331,Riyaz Aggarwal,Grade 11,A,86.7,84.3,4.7,65.7,79.7
+STU-1332,Kunal Reddy,AI & DS - Sem 5,A,84.1,59.2,4.4,64.3,59.3
+STU-1333,Swati Chopra,Grade 11,C,97.6,69.6,3.8,71.6,72.0
+STU-1334,Ritu Gupta,Grade 10,B,70.9,74.4,4.4,58.0,65.4
+STU-1335,Sameer Deshmukh,AI & DS - Sem 5,C,92.4,72.4,5.4,72.5,71.5
+STU-1336,Priya Sharma,AI & DS - Sem 3,B,88.2,87.8,5.9,78.4,85.7
+STU-1337,Divya Iyer,AI & DS - Sem 3,B,83.0,77.8,3.9,55.8,69.5
+STU-1338,Arjun Iyer,AI & DS - Sem 3,C,68.5,64.7,2.7,48.1,59.3
+STU-1339,Aditya Saxena,AI & DS - Sem 5,C,76.2,60.8,4.1,58.0,61.8
+STU-1340,Neha Mehta,AI & DS - Sem 5,B,67.1,52.0,1.9,45.7,50.1
+STU-1341,Harish Menon,Grade 12,B,63.7,63.1,2.9,43.6,53.1
+STU-1342,Rohan Rao,Grade 10,C,78.5,55.2,2.0,46.3,51.0
+STU-1343,Sunita Pandey,AI & DS - Sem 5,A,93.3,76.9,3.2,57.5,73.6
+STU-1344,Swati Patel,AI & DS - Sem 3,B,82.0,66.0,3.4,51.3,65.8
+STU-1345,Tara Malhotra,AI & DS - Sem 5,A,96.4,91.1,5.7,75.8,77.4
+STU-1346,Amit Joshi,Grade 10,A,69.6,44.5,2.4,51.1,53.7
+STU-1347,Riyaz Saxena,Grade 11,C,82.1,65.7,2.6,61.4,62.6
+STU-1348,Shreya Bhatia,AI & DS - Sem 3,C,78.0,65.0,3.1,51.9,61.1
+STU-1349,Rohan Mishra,Grade 12,A,81.4,85.6,6.0,57.5,79.5
+STU-1350,Sneha Bhatia,Grade 12,B,68.6,67.2,2.8,44.2,58.5
+STU-1351,Kunal Malhotra,AI & DS - Sem 5,B,100.0,99.0,7.4,80.4,93.5
+STU-1352,Siddharth Choudhury,AI & DS - Sem 3,A,66.7,46.8,1.2,42.3,45.4
+STU-1353,Siddharth Nair,AI & DS - Sem 5,A,88.9,84.4,4.8,75.5,78.9
+STU-1354,Siddharth Bose,AI & DS - Sem 5,B,75.6,64.6,1.1,46.6,55.1
+STU-1355,Kavya Deshmukh,AI & DS - Sem 5,C,70.3,47.7,2.5,44.3,41.3
+STU-1356,Pooja Pillai,Grade 10,C,64.8,60.7,4.1,48.2,58.1
+STU-1357,Karan Sharma,Grade 11,A,79.1,69.0,4.2,64.1,63.6
+STU-1358,Neha Malhotra,Grade 10,C,58.0,42.2,0.7,32.7,36.4
+STU-1359,Karan Gupta,Grade 12,B,72.5,78.6,6.6,69.3,73.9
+STU-1360,Sunita Das,AI & DS - Sem 5,B,91.2,72.4,3.3,59.9,65.2
+STU-1361,Aarav Kapoor,Grade 11,A,79.8,77.0,3.1,54.3,54.3
+STU-1362,Swati Yadav,Grade 11,A,88.3,82.3,4.5,67.2,77.9
+STU-1363,Isha Choudhury,Grade 12,A,80.6,63.2,2.1,55.4,54.6
+STU-1364,Aarav Aggarwal,Grade 10,B,64.4,69.5,2.6,45.7,54.2
+STU-1365,Manish Chatterjee,AI & DS - Sem 5,C,91.8,65.7,5.5,68.6,71.6
+STU-1366,Gaurav Reddy,Grade 12,B,92.7,97.2,3.6,66.6,77.2
+STU-1367,Rajesh Mahammad,Grade 12,A,67.7,53.5,2.1,47.7,56.2
+STU-1368,Arjun Mishra,AI & DS - Sem 3,C,69.4,72.8,3.5,40.9,56.5
+STU-1369,Ayush Chatterjee,Grade 10,A,62.2,42.8,2.3,32.1,46.3
+STU-1370,Sameer Mehta,Grade 10,B,56.4,51.1,0.6,25.5,36.9
+STU-1371,Karan Gupta,Grade 10,B,82.9,67.7,3.3,63.8,66.9
+STU-1372,Siddharth Choudhury,AI & DS - Sem 5,C,69.6,70.3,3.4,44.6,56.3
+STU-1373,Tanvi Reddy,Grade 10,A,74.5,58.5,2.8,52.9,57.1
+STU-1374,Riyaz Choudhury,Grade 12,C,74.3,72.3,2.5,56.4,60.4
+STU-1375,Sneha Das,AI & DS - Sem 5,C,63.6,56.7,1.8,39.4,46.4
+STU-1376,Anjali Joshi,Grade 11,C,69.3,70.2,2.6,46.1,55.5
+STU-1377,Amit Kapoor,AI & DS - Sem 5,A,70.1,61.2,2.8,45.2,60.0
+STU-1378,Tara Chopra,AI & DS - Sem 5,C,86.0,68.3,4.6,67.4,68.8
+STU-1379,Bhavna Kapoor,Grade 11,C,76.2,97.9,4.4,56.8,75.6
+STU-1380,Rohan Kapoor,Grade 12,C,83.2,92.4,4.0,66.3,74.8
+STU-1381,Arjun Joshi,Grade 12,B,74.2,76.5,4.5,59.6,63.7
+STU-1382,Vikram Mehta,AI & DS - Sem 3,C,64.7,53.4,1.0,38.8,46.6
+STU-1383,Shruti Singh,Grade 10,A,96.0,76.6,4.0,68.5,72.8
+STU-1384,Divya Pillai,Grade 11,B,70.0,47.4,0.9,38.6,44.3
+STU-1385,Divya Mishra,AI & DS - Sem 5,C,100.0,91.4,6.4,71.8,86.6
+STU-1386,Divya Joshi,Grade 12,A,62.9,58.1,2.4,43.0,48.8
+STU-1387,Rajesh Yadav,Grade 11,C,71.3,56.3,2.8,51.6,45.6
+STU-1388,Nikhil Joshi,Grade 11,A,85.9,73.7,3.9,56.5,62.9
+STU-1389,Meera Saxena,Grade 11,A,87.0,77.9,3.2,51.4,62.7
+STU-1390,Sunita Malhotra,Grade 12,C,85.3,74.9,4.7,59.0,70.9
+STU-1391,Vikram Chatterjee,Grade 12,A,57.3,78.2,3.0,53.5,60.8
+STU-1392,Ayush Kulkarni,Grade 11,C,50.6,55.4,0.5,25.7,41.0
+STU-1393,Ayush Chopra,Grade 10,C,89.8,88.1,4.4,67.6,76.2
+STU-1394,Nikhil Das,Grade 12,B,86.4,85.0,3.3,66.4,78.9
+STU-1395,Isha Verma,AI & DS - Sem 3,B,59.1,45.4,2.2,34.2,45.7
+STU-1396,Siddharth Mahammad,Grade 10,B,71.4,66.0,4.8,61.2,64.2
+STU-1397,Komal Malhotra,AI & DS - Sem 3,B,80.8,48.5,2.4,56.2,49.3
+STU-1398,Pooja Verma,AI & DS - Sem 5,C,84.0,70.1,6.2,61.6,76.0
+STU-1399,Divya Aggarwal,AI & DS - Sem 3,A,64.8,74.1,3.9,53.1,66.4
+STU-1400,Sunita Chatterjee,Grade 11,B,64.0,65.4,3.7,47.5,57.5
+STU-1401,Sneha Deshmukh,Grade 10,A,75.9,69.8,4.3,47.2,63.0
+STU-1402,Deepak Chatterjee,Grade 12,B,78.2,64.9,2.5,50.7,60.9
+STU-1403,Rahul Pandey,Grade 10,C,76.2,75.3,4.4,56.5,65.0
+STU-1404,Gaurav Chopra,Grade 12,A,82.1,65.4,1.5,47.2,49.5
+STU-1405,Ritu Gupta,AI & DS - Sem 5,C,81.4,78.1,5.2,56.2,73.0
+STU-1406,Amit Reddy,Grade 12,B,89.1,70.9,5.1,74.7,73.7
+STU-1407,Nikhil Iyer,AI & DS - Sem 3,B,62.9,41.8,0.5,37.1,44.0
+STU-1408,Amit Menon,AI & DS - Sem 3,C,65.4,57.6,2.1,42.1,48.1
+STU-1409,Sneha Bhatia,AI & DS - Sem 3,B,71.3,57.6,2.7,44.3,57.9
+STU-1410,Rajesh Bhatia,AI & DS - Sem 5,A,82.3,67.8,5.1,68.2,61.7
+STU-1411,Gaurav Bose,AI & DS - Sem 3,C,77.7,65.9,2.9,45.6,58.9
+STU-1412,Shruti Mishra,Grade 10,C,54.7,39.7,0.9,30.3,39.8
+STU-1413,Nandini Singh,Grade 10,B,73.7,57.7,2.2,47.7,47.2
+STU-1414,Nandini Ghosh,AI & DS - Sem 3,A,67.0,68.0,2.4,55.1,62.4
+STU-1415,Rahul Pandey,Grade 12,A,62.0,70.5,2.8,38.1,56.2
+STU-1416,Anjali Mishra,AI & DS - Sem 5,C,66.2,61.0,3.3,54.0,57.9
+STU-1417,Shruti Aggarwal,Grade 12,B,87.8,75.8,5.4,71.0,72.2
+STU-1418,Neha Mahammad,Grade 12,A,75.8,63.1,4.9,61.8,59.1
+STU-1419,Varun Verma,AI & DS - Sem 3,C,70.6,67.0,3.0,42.3,55.1
+STU-1420,Manish Deshmukh,Grade 12,C,82.3,62.0,4.8,64.0,71.3
+STU-1421,Sneha Kapoor,Grade 10,C,76.1,51.6,2.2,41.2,52.6
+STU-1422,Rahul Das,AI & DS - Sem 5,B,72.9,70.4,5.0,62.4,62.7
+STU-1423,Varun Nair,AI & DS - Sem 5,C,70.0,60.9,1.8,42.5,50.0
+STU-1424,Siddharth Pandey,Grade 12,C,82.1,80.1,3.5,65.3,77.7
+STU-1425,Rahul Mishra,AI & DS - Sem 5,A,97.0,88.2,6.5,69.6,84.6
+STU-1426,Gaurav Chopra,AI & DS - Sem 5,C,70.4,59.3,3.6,50.6,55.4
+STU-1427,Bhavna Mehta,Grade 10,A,80.6,73.7,3.1,47.9,65.3
+STU-1428,Kavya Singh,AI & DS - Sem 5,B,80.3,92.3,3.7,61.8,76.0
+STU-1429,Amit Kulkarni,Grade 11,B,93.2,97.4,7.2,76.0,92.6
+STU-1430,Manish Menon,AI & DS - Sem 3,C,86.1,68.2,4.2,58.6,67.4
+STU-1431,Anjali Saxena,Grade 12,A,63.1,60.4,4.6,43.1,52.2
+STU-1432,Tanvi Singh,Grade 10,A,87.1,87.9,6.5,78.8,81.1
+STU-1433,Ritu Ghosh,Grade 12,A,82.3,62.4,1.5,47.0,51.9
+STU-1434,Ritu Rao,AI & DS - Sem 5,A,72.5,52.9,0.8,38.8,48.1
+STU-1435,Sneha Joshi,Grade 12,B,71.4,55.3,2.4,50.3,48.2
+STU-1436,Kunal Joshi,Grade 10,B,84.8,85.8,4.8,71.8,75.6
+STU-1437,Rahul Sharma,Grade 11,C,70.1,60.8,4.1,63.6,55.9
+STU-1438,Sameer Das,Grade 10,C,64.7,47.3,0.5,41.3,47.3
+STU-1439,Rahul Das,AI & DS - Sem 3,A,82.1,78.2,4.0,61.4,70.7
+STU-1440,Kavya Pandey,Grade 10,C,76.9,62.1,2.8,51.1,62.4
+STU-1441,Divya Rao,Grade 11,A,77.3,51.3,2.2,48.7,52.8
+STU-1442,Gaurav Pandey,Grade 11,C,66.1,62.7,3.3,54.8,60.6
+STU-1443,Rohan Das,Grade 12,B,63.7,53.4,4.2,50.8,53.6
+STU-1444,Isha Mahammad,Grade 10,C,81.2,70.6,4.2,58.9,68.5
+STU-1445,Nikhil Choudhury,Grade 10,C,78.2,77.9,3.6,69.9,66.3
+STU-1446,Siddharth Nair,Grade 12,B,74.4,63.8,2.9,44.6,61.7
+STU-1447,Karan Bhatia,Grade 12,B,62.2,59.1,2.4,43.1,48.8
+STU-1448,Amit Yadav,Grade 12,C,77.2,72.6,4.0,50.9,67.7
+STU-1449,Rohan Aggarwal,AI & DS - Sem 5,C,87.0,63.7,4.1,63.6,65.0
+STU-1450,Manish Bose,AI & DS - Sem 3,A,97.7,99.0,6.0,78.5,92.4
+STU-1451,Riyaz Chatterjee,AI & DS - Sem 5,A,80.8,74.2,4.7,66.2,69.7
+STU-1452,Varun Mehta,Grade 12,C,76.6,69.6,4.3,58.0,66.7
+STU-1453,Shruti Chatterjee,Grade 10,A,77.1,59.1,2.2,34.8,56.1
+STU-1454,Harish Singh,AI & DS - Sem 5,A,73.8,72.0,4.7,49.9,58.0
+STU-1455,Meera Patel,AI & DS - Sem 5,B,80.8,47.1,2.0,49.8,57.7
+STU-1456,Tara Yadav,Grade 10,C,77.0,58.0,5.3,65.8,75.6
+STU-1457,Meera Aggarwal,Grade 11,C,88.9,79.4,4.9,70.3,71.9
+STU-1458,Priya Reddy,AI & DS - Sem 5,B,75.5,63.5,4.2,58.1,63.2
+STU-1459,Isha Verma,Grade 11,B,72.3,76.1,3.5,56.2,69.0
+STU-1460,Karan Mehta,Grade 11,C,75.5,63.7,3.3,49.7,62.9
+STU-1461,Aditya Iyer,Grade 11,A,80.5,62.9,3.7,62.6,63.8
+STU-1462,Divya Kapoor,Grade 12,C,66.4,49.2,1.8,38.2,41.3
+STU-1463,Harish Aggarwal,Grade 12,B,58.8,44.3,0.8,27.8,33.7
+STU-1464,Kunal Mehta,Grade 12,C,86.6,73.5,3.2,59.0,66.2
+STU-1465,Komal Das,AI & DS - Sem 3,A,84.9,68.4,3.6,63.9,66.6
+STU-1466,Priya Bhatia,Grade 12,B,65.6,71.0,2.9,49.8,63.6
+STU-1467,Sneha Menon,Grade 11,B,71.3,61.7,3.2,52.8,57.2
+STU-1468,Ananya Singh,Grade 11,A,96.2,80.2,3.9,68.8,80.3
+STU-1469,Harish Verma,Grade 10,A,90.8,89.5,6.0,81.8,87.2
+STU-1470,Sneha Nair,Grade 11,C,86.8,64.5,4.3,65.1,67.0
+STU-1471,Divya Mahammad,Grade 10,C,89.3,76.0,3.0,46.7,63.9
+STU-1472,Aditya Joshi,Grade 10,C,69.2,66.7,2.8,43.0,61.5
+STU-1473,Nandini Malhotra,AI & DS - Sem 5,B,69.9,55.7,2.8,49.9,52.9
+STU-1474,Shruti Iyer,Grade 11,C,62.4,61.8,2.8,45.6,55.7
+STU-1475,Ritu Rao,AI & DS - Sem 5,B,76.6,86.4,3.7,51.8,69.7
+STU-1476,Siddharth Mehta,Grade 12,C,77.1,72.3,3.1,47.0,65.1
+STU-1477,Tanvi Kulkarni,Grade 12,B,82.6,65.5,1.9,55.5,56.2
+STU-1478,Shreya Patel,AI & DS - Sem 3,A,70.0,46.3,1.6,40.4,52.0
+STU-1479,Kunal Kapoor,Grade 11,A,89.3,99.0,5.7,68.6,83.6
+STU-1480,Pooja Nair,Grade 10,B,73.3,67.6,2.4,55.4,53.7
+STU-1481,Shruti Choudhury,AI & DS - Sem 3,B,92.4,86.3,4.0,62.9,74.6
+STU-1482,Sunita Iyer,Grade 11,B,86.9,71.5,4.6,67.5,76.9
+STU-1483,Divya Iyer,Grade 11,B,67.2,44.1,1.5,45.4,43.0
+STU-1484,Shruti Kulkarni,Grade 12,C,100.0,94.0,5.4,73.1,82.9
+STU-1485,Vikram Chopra,Grade 12,B,87.4,78.0,2.7,59.3,70.0
+STU-1486,Nandini Iyer,Grade 11,A,80.1,76.5,4.2,50.5,67.8
+STU-1487,Kavya Das,Grade 10,A,84.4,70.2,4.0,62.9,64.5
+STU-1488,Sameer Aggarwal,Grade 10,B,80.2,74.9,5.1,65.9,67.5
+STU-1489,Divya Malhotra,Grade 11,B,63.4,74.0,3.2,55.7,58.2
+STU-1490,Sameer Aggarwal,AI & DS - Sem 5,B,58.3,55.9,2.2,37.0,50.3
+STU-1491,Kavya Singh,Grade 11,B,91.7,80.9,5.2,69.3,79.2
+STU-1492,Sameer Pillai,Grade 10,C,87.2,82.9,4.0,60.0,70.8
+STU-1493,Bhavna Kapoor,Grade 11,A,83.9,77.8,3.3,56.5,65.7
+STU-1494,Tanvi Bhatia,AI & DS - Sem 5,B,67.9,69.0,3.3,53.1,54.6
+STU-1495,Rajesh Yadav,Grade 12,B,76.2,62.2,2.3,48.3,53.7
+STU-1496,Vikram Das,AI & DS - Sem 5,C,80.6,82.5,7.0,71.3,80.9
+STU-1497,Meera Deshmukh,Grade 11,C,81.0,66.9,4.1,66.3,68.3
+STU-1498,Bhavna Mehta,AI & DS - Sem 5,A,84.0,70.5,4.5,57.3,65.3
+STU-1499,Aditya Iyer,AI & DS - Sem 3,C,64.7,57.0,3.9,52.7,50.8
+STU-1500,Rajesh Singh,AI & DS - Sem 5,A,65.9,53.4,1.8,39.0,53.2
+STU-1501,Isha Kulkarni,Grade 11,A,56.5,48.0,1.9,35.6,37.8
+STU-1502,Pooja Chopra,Grade 11,B,60.2,64.1,3.1,47.3,57.8
+STU-1503,Vikram Pandey,Grade 12,B,60.5,64.5,1.9,44.1,51.1
+STU-1504,Tanvi Chopra,Grade 12,B,62.9,57.0,3.9,43.6,61.6
+STU-1505,Varun Mishra,Grade 11,A,59.0,53.5,2.7,50.6,53.2
+STU-1506,Shreya Choudhury,AI & DS - Sem 3,A,69.7,75.7,4.0,54.3,63.3
+STU-1507,Ayush Mehta,Grade 12,C,83.2,81.5,5.9,70.1,78.4
+STU-1508,Priya Saxena,AI & DS - Sem 3,B,69.6,46.4,3.7,50.2,53.2
+STU-1509,Gaurav Aggarwal,AI & DS - Sem 5,C,78.2,62.4,0.5,43.6,56.0
+STU-1510,Tanvi Bhatia,AI & DS - Sem 3,C,62.5,48.1,0.8,34.0,43.6
+STU-1511,Kavya Kapoor,Grade 10,A,70.9,62.6,2.2,46.3,61.7
+STU-1512,Aarav Mishra,Grade 10,C,90.8,86.1,4.7,57.5,74.3
+STU-1513,Manish Joshi,Grade 10,B,69.3,67.8,4.4,59.9,57.5
+STU-1514,Isha Mahammad,AI & DS - Sem 3,B,70.3,64.8,2.8,48.3,54.6
+STU-1515,Komal Patel,Grade 10,C,70.3,61.4,3.8,48.4,63.6
+STU-1516,Siddharth Choudhury,Grade 10,A,81.9,78.7,5.7,69.5,75.8
+STU-1517,Rahul Choudhury,Grade 12,C,93.9,84.5,6.1,76.6,81.4
+STU-1518,Komal Joshi,AI & DS - Sem 3,B,69.8,59.1,2.6,42.4,54.5
+STU-1519,Shruti Mahammad,Grade 12,C,74.3,76.0,3.4,58.8,61.7
+STU-1520,Sameer Choudhury,AI & DS - Sem 5,A,68.7,59.0,2.4,51.2,54.3
+STU-1521,Bhavna Ghosh,AI & DS - Sem 3,B,85.3,75.6,2.9,56.8,68.8
+STU-1522,Sunita Bose,AI & DS - Sem 3,B,69.3,70.0,4.3,59.5,72.3
+STU-1523,Pooja Mishra,AI & DS - Sem 3,C,79.0,69.1,1.5,40.6,60.0
+STU-1524,Ritu Pandey,AI & DS - Sem 3,C,54.9,50.1,0.5,24.7,36.0
+STU-1525,Nandini Mishra,AI & DS - Sem 3,C,50.6,55.2,2.0,38.2,40.7
+STU-1526,Ayush Menon,AI & DS - Sem 3,C,73.8,71.8,3.1,46.7,63.3
+STU-1527,Varun Bhatia,Grade 11,A,62.7,58.9,0.5,28.3,44.6
+STU-1528,Amit Mahammad,Grade 10,B,88.9,76.8,4.1,61.8,75.2
+STU-1529,Priya Pillai,AI & DS - Sem 5,B,59.6,48.2,1.8,32.4,44.7
+STU-1530,Riyaz Choudhury,Grade 10,B,75.1,75.1,2.4,44.5,64.4
+STU-1531,Rohan Patel,AI & DS - Sem 3,B,70.8,55.4,5.2,52.3,51.8
+STU-1532,Riyaz Patel,AI & DS - Sem 5,B,84.9,90.0,5.4,63.5,78.6
+STU-1533,Arjun Joshi,AI & DS - Sem 5,B,73.5,74.7,1.2,40.1,49.6
+STU-1534,Sneha Pandey,Grade 12,B,85.3,72.7,4.4,67.6,72.4
+STU-1535,Rajesh Choudhury,AI & DS - Sem 3,A,72.3,87.5,5.0,58.0,69.5
+STU-1536,Ayush Kapoor,Grade 11,C,88.5,64.7,6.3,74.1,70.7
+STU-1537,Amit Joshi,AI & DS - Sem 3,A,68.4,67.0,2.8,52.4,59.6
+STU-1538,Shreya Saxena,Grade 12,A,65.4,74.1,3.0,54.5,65.2
+STU-1539,Nandini Das,Grade 12,C,62.6,64.5,2.3,41.8,56.6
+STU-1540,Riyaz Mishra,Grade 10,A,90.7,72.8,3.9,63.6,67.7
+STU-1541,Kavya Rao,Grade 10,B,86.5,88.3,4.9,68.5,77.2
+STU-1542,Rohan Kapoor,AI & DS - Sem 5,B,85.7,67.9,5.0,64.5,67.8
+STU-1543,Varun Ghosh,Grade 10,A,74.4,79.3,3.9,54.8,73.6
+STU-1544,Nandini Bhatia,Grade 10,C,56.0,52.7,3.7,48.2,45.6
+STU-1545,Sameer Mahammad,AI & DS - Sem 3,B,98.1,99.0,5.9,81.1,92.7
+STU-1546,Isha Reddy,AI & DS - Sem 3,A,87.3,88.3,4.9,59.9,71.6
+STU-1547,Deepak Mahammad,AI & DS - Sem 5,B,60.1,53.1,2.3,43.8,49.3
+STU-1548,Sunita Malhotra,Grade 12,B,73.4,65.3,4.2,64.9,68.8
+STU-1549,Ananya Das,Grade 11,B,84.3,80.4,2.9,56.2,67.7
+STU-1550,Shruti Malhotra,Grade 12,B,75.2,57.3,2.7,48.0,55.0
+STU-1551,Kavya Patel,AI & DS - Sem 3,C,70.8,57.2,1.2,48.1,52.9
+STU-1552,Priya Chopra,AI & DS - Sem 5,C,60.6,48.4,1.8,31.8,45.1
+STU-1553,Ritu Bose,AI & DS - Sem 5,A,64.4,54.4,2.1,48.4,48.8
+STU-1554,Meera Mahammad,Grade 12,A,79.6,65.6,4.7,66.9,71.5
+STU-1555,Amit Mehta,AI & DS - Sem 5,B,65.2,58.2,3.1,37.3,48.3
+STU-1556,Ananya Chatterjee,Grade 12,A,77.5,77.5,3.9,55.2,70.1
+STU-1557,Divya Pandey,AI & DS - Sem 3,C,70.0,62.4,2.4,43.4,62.9
+STU-1558,Tanvi Malhotra,Grade 10,A,93.0,88.6,4.1,64.6,76.3
+STU-1559,Tanvi Bose,Grade 10,A,76.3,55.7,4.4,53.5,60.1
+STU-1560,Tanvi Das,AI & DS - Sem 3,B,69.5,59.6,3.9,52.8,57.4
+STU-1561,Vikram Aggarwal,AI & DS - Sem 5,C,70.7,63.4,4.4,58.4,59.3
+STU-1562,Shreya Pillai,AI & DS - Sem 5,B,68.7,68.6,0.8,40.6,53.4
+STU-1563,Riyaz Singh,Grade 10,B,70.8,70.3,4.3,53.8,67.9
+STU-1564,Kavya Mahammad,Grade 12,C,77.3,81.8,4.4,59.2,70.6
+STU-1565,Shreya Pillai,AI & DS - Sem 5,B,88.5,71.3,4.7,73.6,77.8
+STU-1566,Shreya Bose,AI & DS - Sem 5,B,71.3,41.2,1.3,43.6,39.9
+STU-1567,Tara Pillai,Grade 10,C,83.9,84.2,4.7,68.8,64.8
+STU-1568,Harish Nair,AI & DS - Sem 3,A,63.8,50.5,0.5,34.8,39.8
+STU-1569,Vikram Aggarwal,AI & DS - Sem 5,A,71.2,59.1,2.8,49.5,57.2
+STU-1570,Manish Das,Grade 10,A,83.4,75.6,5.5,69.6,80.2
+STU-1571,Neha Mishra,Grade 11,A,61.5,48.7,2.2,40.9,48.4
+STU-1572,Riyaz Bhatia,Grade 12,C,65.6,54.7,2.8,42.6,47.4
+STU-1573,Rahul Mehta,AI & DS - Sem 3,B,72.8,62.1,3.9,61.0,64.6
+STU-1574,Tanvi Nair,Grade 10,A,79.6,73.3,3.1,53.4,62.7
+STU-1575,Swati Patel,AI & DS - Sem 3,C,72.4,51.8,1.4,35.3,45.2
+STU-1576,Isha Kapoor,Grade 10,C,87.3,77.3,4.3,65.6,77.2
+STU-1577,Aarav Kulkarni,Grade 12,B,57.9,61.1,2.8,44.4,51.3
+STU-1578,Sneha Singh,AI & DS - Sem 3,A,93.4,74.4,4.2,62.9,74.3
+STU-1579,Meera Singh,AI & DS - Sem 5,A,67.8,47.6,1.2,40.5,57.2
+STU-1580,Ananya Iyer,Grade 10,C,81.2,58.0,5.5,61.4,65.2
+STU-1581,Kunal Verma,Grade 10,B,66.1,48.6,2.5,45.8,52.3
+STU-1582,Kunal Pillai,Grade 12,C,69.9,51.1,3.2,51.9,55.1
+STU-1583,Ritu Rao,Grade 10,B,88.0,73.9,3.6,60.8,69.5
+STU-1584,Rahul Iyer,Grade 11,C,72.3,77.9,3.1,53.4,59.2
+STU-1585,Meera Saxena,Grade 10,B,85.3,69.7,2.8,57.7,61.1
+STU-1586,Gaurav Kulkarni,Grade 10,A,81.3,61.2,4.8,62.1,69.7
+STU-1587,Siddharth Bose,Grade 10,C,100.0,92.3,6.0,80.2,96.6
+STU-1588,Kunal Reddy,Grade 11,B,74.9,60.8,3.5,46.0,56.5
+STU-1589,Aditya Saxena,Grade 12,B,70.7,69.1,1.8,37.4,50.9
+STU-1590,Bhavna Malhotra,Grade 12,A,74.8,74.9,3.8,51.1,68.9
+STU-1591,Aarav Rao,AI & DS - Sem 5,B,84.1,59.6,3.1,58.3,59.2
+STU-1592,Ayush Mahammad,Grade 12,C,61.7,47.7,2.4,49.5,49.9
+STU-1593,Bhavna Chatterjee,Grade 11,B,76.0,83.4,3.3,55.8,70.3
+STU-1594,Sunita Yadav,Grade 12,C,59.2,60.3,3.9,46.2,51.1
+STU-1595,Nandini Singh,Grade 12,B,76.0,47.3,0.7,43.7,42.7
+STU-1596,Rohan Kulkarni,AI & DS - Sem 3,C,73.5,58.9,2.9,44.6,51.8
+STU-1597,Siddharth Rao,AI & DS - Sem 3,B,63.0,64.1,2.6,41.3,46.0
+STU-1598,Karan Chopra,Grade 11,B,100.0,93.8,5.8,80.4,81.3
+STU-1599,Karan Nair,AI & DS - Sem 3,B,77.3,66.5,3.9,51.9,64.1
+STU-1600,Aarav Bose,AI & DS - Sem 3,A,80.4,59.0,3.7,46.9,58.1
+STU-1601,Anjali Mahammad,Grade 11,B,67.2,72.5,2.5,42.7,58.8
+STU-1602,Amit Mehta,Grade 11,A,79.8,68.9,2.4,48.2,59.4
+STU-1603,Nandini Reddy,Grade 11,B,60.8,67.5,3.5,34.1,54.4
+STU-1604,Ritu Menon,AI & DS - Sem 3,C,51.8,41.1,2.0,38.5,36.5
+STU-1605,Rahul Saxena,Grade 12,B,69.5,69.1,3.1,43.8,53.5
+STU-1606,Kavya Reddy,Grade 12,C,96.1,82.1,5.6,73.3,85.2
+STU-1607,Sneha Chopra,Grade 12,A,80.5,66.4,5.4,67.4,74.2
+STU-1608,Manish Mehta,AI & DS - Sem 3,C,86.7,75.4,4.5,65.2,66.5
+STU-1609,Vikram Choudhury,Grade 10,B,65.9,58.7,2.0,46.0,50.0
+STU-1610,Kunal Patel,AI & DS - Sem 3,B,74.9,76.6,3.0,47.3,52.0
+STU-1611,Nandini Iyer,AI & DS - Sem 5,C,86.9,79.7,5.5,63.6,79.6
+STU-1612,Manish Mishra,Grade 10,A,65.6,49.3,0.9,32.2,48.0
+STU-1613,Ritu Pillai,Grade 11,A,79.0,62.8,3.2,57.5,72.8
+STU-1614,Shreya Bhatia,Grade 10,B,59.3,52.6,0.5,37.1,44.5
+STU-1615,Priya Chatterjee,AI & DS - Sem 5,C,73.8,54.5,3.6,56.0,56.8
+STU-1616,Tara Joshi,AI & DS - Sem 5,C,77.0,73.8,4.7,52.8,69.6
+STU-1617,Deepak Mehta,Grade 10,B,74.9,58.8,2.5,52.3,65.1
+STU-1618,Kunal Menon,Grade 12,C,88.7,99.0,6.1,74.3,80.0
+STU-1619,Neha Choudhury,AI & DS - Sem 3,C,70.8,69.1,0.7,37.6,56.6
+STU-1620,Harish Bose,AI & DS - Sem 3,A,93.1,70.9,3.4,67.1,66.5
+STU-1621,Ayush Deshmukh,AI & DS - Sem 3,C,62.8,42.6,0.9,36.2,41.2
+STU-1622,Bhavna Gupta,Grade 11,C,66.8,58.3,3.1,43.8,58.9
+STU-1623,Kunal Yadav,Grade 11,B,74.8,53.3,2.4,55.9,58.5
+STU-1624,Gaurav Malhotra,Grade 11,C,83.9,66.3,4.6,57.1,68.4
+STU-1625,Rajesh Bose,Grade 11,C,80.9,60.4,0.8,44.0,50.8
+STU-1626,Aditya Aggarwal,Grade 10,A,71.3,54.8,2.1,46.7,52.1
+STU-1627,Kavya Patel,AI & DS - Sem 3,B,79.6,58.3,3.6,63.0,60.4
+STU-1628,Tara Reddy,AI & DS - Sem 5,A,69.4,70.3,2.6,58.1,59.1
+STU-1629,Nikhil Mehta,Grade 11,C,85.3,76.9,6.0,62.7,73.0
+STU-1630,Sunita Kulkarni,AI & DS - Sem 5,C,75.1,60.5,1.9,49.0,57.3
+STU-1631,Siddharth Singh,Grade 12,B,91.8,83.9,3.6,65.8,79.8
+STU-1632,Harish Verma,AI & DS - Sem 5,C,81.4,84.8,4.6,60.8,72.6
+STU-1633,Sneha Chopra,AI & DS - Sem 5,C,88.2,96.1,5.4,64.1,81.6
+STU-1634,Aarav Menon,Grade 11,B,55.8,62.1,1.9,32.0,52.7
+STU-1635,Harish Reddy,AI & DS - Sem 5,B,62.0,61.4,1.4,35.2,44.4
+STU-1636,Sameer Joshi,AI & DS - Sem 5,C,74.5,87.9,5.3,57.2,68.4
+STU-1637,Swati Patel,Grade 10,C,73.7,66.0,1.5,42.5,59.8
+STU-1638,Swati Patel,Grade 12,C,54.0,43.1,0.9,40.5,31.7
+STU-1639,Gaurav Chatterjee,Grade 12,A,68.2,57.4,1.3,39.1,50.2
+STU-1640,Gaurav Ghosh,Grade 11,A,74.8,68.1,2.6,58.0,60.9
+STU-1641,Nandini Pandey,Grade 12,B,71.8,71.5,2.3,52.7,58.7
+STU-1642,Ayush Sharma,AI & DS - Sem 5,B,87.7,89.1,4.5,58.6,78.7
+STU-1643,Ayush Gupta,Grade 12,C,62.0,44.0,2.0,39.2,47.1
+STU-1644,Varun Bose,Grade 11,A,66.9,52.8,2.3,39.7,47.3
+STU-1645,Arjun Sharma,Grade 11,A,81.0,59.3,3.8,64.1,60.9
+STU-1646,Manish Mahammad,AI & DS - Sem 3,A,100.0,95.8,5.6,77.0,89.4
+STU-1647,Riyaz Chopra,AI & DS - Sem 5,A,61.8,47.8,0.5,36.2,39.0
+STU-1648,Pooja Deshmukh,Grade 11,B,62.1,61.1,4.5,43.5,61.7
+STU-1649,Karan Yadav,AI & DS - Sem 3,C,59.8,75.8,3.5,49.5,56.6
+STU-1650,Divya Kapoor,Grade 12,C,68.2,50.0,2.2,48.9,46.9
+STU-1651,Rajesh Nair,Grade 12,B,81.2,87.4,4.9,61.7,80.4
+STU-1652,Tanvi Chopra,Grade 10,B,65.0,61.1,2.4,44.2,49.0
+STU-1653,Amit Pandey,Grade 11,A,81.6,62.6,3.5,69.4,66.5
+STU-1654,Gaurav Deshmukh,Grade 10,C,86.4,66.2,3.2,55.0,60.5
+STU-1655,Harish Das,AI & DS - Sem 3,A,78.6,57.9,3.4,46.1,55.0
+STU-1656,Rajesh Pandey,Grade 11,B,71.3,70.0,0.5,43.6,50.0
+STU-1657,Kavya Singh,Grade 10,B,81.7,80.1,4.0,54.7,63.2
+STU-1658,Aarav Rao,Grade 10,C,99.0,91.9,3.5,68.1,81.5
+STU-1659,Rahul Kapoor,AI & DS - Sem 5,A,79.5,79.1,5.9,64.5,72.3
+STU-1660,Kunal Patel,Grade 10,B,80.8,99.0,5.7,63.1,79.1
+STU-1661,Divya Sharma,AI & DS - Sem 5,B,70.0,65.9,2.5,40.9,56.6
+STU-1662,Ritu Chatterjee,AI & DS - Sem 5,B,64.1,77.2,2.0,46.5,52.5
+STU-1663,Shruti Pillai,Grade 12,C,63.0,40.1,1.0,38.7,40.5
+STU-1664,Riyaz Malhotra,AI & DS - Sem 5,C,71.8,49.9,2.7,45.4,48.9
+STU-1665,Komal Das,AI & DS - Sem 3,A,74.8,57.9,0.8,38.1,44.7
+STU-1666,Isha Patel,Grade 11,C,82.8,77.1,5.0,68.7,73.2
+STU-1667,Komal Kapoor,Grade 11,B,61.4,44.1,2.5,44.0,46.8
+STU-1668,Shruti Kulkarni,AI & DS - Sem 3,A,76.8,59.1,3.1,47.7,57.1
+STU-1669,Shruti Deshmukh,Grade 12,A,96.6,81.3,4.9,73.8,80.6
+STU-1670,Siddharth Nair,AI & DS - Sem 3,B,58.3,46.2,2.7,46.1,44.1
+STU-1671,Manish Bhatia,AI & DS - Sem 5,C,90.8,82.4,4.6,65.3,81.9
+STU-1672,Neha Chatterjee,Grade 12,A,79.8,74.5,3.3,55.2,65.5
+STU-1673,Manish Yadav,Grade 12,C,81.5,69.3,3.4,54.7,68.1
+STU-1674,Varun Chatterjee,Grade 11,B,98.0,85.8,6.2,74.9,79.7
+STU-1675,Swati Pillai,Grade 12,B,90.9,79.7,4.4,70.5,75.0
+STU-1676,Kunal Iyer,AI & DS - Sem 5,A,64.2,70.1,3.3,45.7,60.6
+STU-1677,Aarav Ghosh,Grade 10,C,53.9,44.8,3.0,45.5,43.5
+STU-1678,Divya Yadav,AI & DS - Sem 3,A,77.7,71.1,3.7,61.1,65.6
+STU-1679,Rahul Joshi,AI & DS - Sem 3,C,81.1,90.1,5.0,62.2,86.0
+STU-1680,Priya Sharma,AI & DS - Sem 3,C,72.8,64.6,3.5,58.3,60.2
+STU-1681,Tanvi Yadav,AI & DS - Sem 3,A,77.2,64.4,5.3,63.6,64.7
+STU-1682,Bhavna Choudhury,Grade 10,A,84.2,84.2,4.6,53.6,60.6
+STU-1683,Isha Sharma,Grade 11,B,67.7,42.7,1.0,35.8,35.2
+STU-1684,Harish Mahammad,Grade 12,B,76.5,67.6,3.6,57.7,60.8
+STU-1685,Priya Sharma,Grade 10,B,77.8,56.5,3.8,66.9,60.5
+STU-1686,Swati Joshi,Grade 12,C,77.4,66.1,4.8,59.9,64.9
+STU-1687,Rajesh Yadav,AI & DS - Sem 5,B,71.9,50.3,1.1,51.4,48.2
+STU-1688,Kavya Saxena,AI & DS - Sem 5,C,73.7,60.1,1.8,47.1,51.7
+STU-1689,Divya Reddy,Grade 10,C,93.6,81.5,4.2,63.1,65.0
+STU-1690,Isha Aggarwal,Grade 10,A,78.0,70.4,2.2,44.2,60.7
+STU-1691,Bhavna Aggarwal,Grade 11,C,85.3,66.7,4.1,57.4,69.1
+STU-1692,Bhavna Pillai,Grade 12,C,74.7,71.9,1.6,42.9,58.0
+STU-1693,Ayush Kulkarni,Grade 11,C,85.8,57.2,3.1,64.8,63.8
+STU-1694,Shreya Bose,AI & DS - Sem 3,A,91.7,69.7,4.3,64.7,64.2
+STU-1695,Divya Menon,Grade 12,A,74.6,65.2,3.0,47.3,60.9
+STU-1696,Harish Choudhury,AI & DS - Sem 3,A,86.6,65.3,5.4,80.1,73.0
+STU-1697,Riyaz Ghosh,Grade 10,B,65.6,54.6,3.2,49.0,51.0
+STU-1698,Neha Gupta,Grade 11,C,66.0,51.5,2.4,41.0,42.9
+STU-1699,Ayush Chatterjee,Grade 11,C,64.7,54.5,0.5,36.3,40.6
+STU-1700,Arjun Rao,Grade 10,A,67.6,63.0,3.5,49.4,56.5
+STU-1701,Kavya Malhotra,Grade 12,C,65.6,52.0,2.8,53.5,55.1
+STU-1702,Rajesh Gupta,Grade 12,C,75.9,68.7,3.5,52.6,63.5
+STU-1703,Meera Chopra,Grade 11,C,71.5,51.4,2.4,49.4,47.6
+STU-1704,Siddharth Aggarwal,AI & DS - Sem 5,C,71.1,72.9,3.2,51.0,59.5
+STU-1705,Sameer Mishra,AI & DS - Sem 5,A,83.8,70.5,3.7,48.7,66.9
+STU-1706,Swati Gupta,Grade 10,A,65.9,40.7,1.8,36.5,43.6
+STU-1707,Sunita Pandey,Grade 10,A,77.8,62.5,3.3,48.8,53.7
+STU-1708,Nandini Mahammad,AI & DS - Sem 5,B,70.4,62.5,2.0,47.0,49.0
+STU-1709,Anjali Pandey,Grade 12,C,91.1,75.0,4.1,71.5,81.2
+STU-1710,Riyaz Kulkarni,AI & DS - Sem 5,B,86.6,76.6,3.1,64.9,73.2
+STU-1711,Deepak Rao,Grade 10,C,99.0,99.0,6.2,78.9,89.1
+STU-1712,Anjali Sharma,AI & DS - Sem 3,C,83.8,66.5,1.2,40.8,57.3
+STU-1713,Isha Ghosh,Grade 11,B,71.6,53.7,2.8,48.7,50.0
+STU-1714,Siddharth Menon,Grade 10,C,64.1,54.5,2.3,36.8,52.8
+STU-1715,Manish Bhatia,Grade 12,A,80.2,90.6,6.7,74.1,84.6
+STU-1716,Karan Ghosh,Grade 11,B,74.5,49.5,2.5,50.9,39.5
+STU-1717,Sunita Ghosh,AI & DS - Sem 3,C,77.4,42.3,1.5,45.2,51.8
+STU-1718,Tanvi Chopra,AI & DS - Sem 3,C,73.3,52.8,3.8,49.2,46.0
+STU-1719,Priya Mehta,Grade 10,C,73.1,55.6,1.2,43.9,51.3
+STU-1720,Rohan Rao,Grade 12,A,78.0,78.7,3.2,55.7,68.7
+STU-1721,Priya Kulkarni,AI & DS - Sem 5,C,76.3,81.1,3.1,47.5,65.0
+STU-1722,Rohan Sharma,AI & DS - Sem 3,A,86.3,78.2,3.9,62.4,72.3
+STU-1723,Amit Sharma,Grade 10,A,58.4,54.5,1.7,40.8,48.1
+STU-1724,Swati Kapoor,Grade 10,C,75.8,69.6,3.0,54.0,60.3
+STU-1725,Vikram Mahammad,Grade 12,A,75.7,56.8,2.3,53.6,56.0
+STU-1726,Aditya Sharma,AI & DS - Sem 5,A,73.5,82.6,4.3,59.3,70.1
+STU-1727,Priya Nair,Grade 11,A,71.7,67.4,4.4,59.4,61.2
+STU-1728,Rohan Mishra,Grade 12,B,100.0,94.8,7.8,91.9,100.0
+STU-1729,Swati Malhotra,AI & DS - Sem 5,B,71.8,62.4,2.7,54.2,57.4
+STU-1730,Sameer Nair,AI & DS - Sem 3,B,77.7,64.1,3.2,60.9,59.9
+STU-1731,Harish Gupta,Grade 10,A,77.9,77.3,4.3,67.0,66.7
+STU-1732,Neha Choudhury,AI & DS - Sem 5,A,93.5,75.7,2.6,51.2,71.6
+STU-1733,Ayush Singh,AI & DS - Sem 5,C,66.4,78.2,3.6,57.7,67.0
+STU-1734,Isha Ghosh,AI & DS - Sem 3,A,79.4,69.0,2.7,59.8,60.7
+STU-1735,Manish Sharma,AI & DS - Sem 3,B,77.9,61.4,3.0,48.0,61.9
+STU-1736,Nikhil Bose,Grade 11,A,78.7,75.6,4.2,60.4,69.5
+STU-1737,Aditya Bhatia,Grade 12,A,60.5,40.8,1.3,41.6,40.3
+STU-1738,Vikram Deshmukh,Grade 10,C,90.8,74.3,3.8,67.0,70.8
+STU-1739,Amit Ghosh,AI & DS - Sem 3,A,69.7,49.3,1.3,37.9,46.3
+STU-1740,Kavya Pillai,AI & DS - Sem 5,A,60.0,53.0,0.8,26.5,41.8
+STU-1741,Rahul Chatterjee,Grade 11,B,85.8,79.4,4.9,63.6,81.4
+STU-1742,Aditya Singh,AI & DS - Sem 5,A,58.1,48.5,0.5,35.1,41.9
+STU-1743,Varun Joshi,AI & DS - Sem 5,A,78.4,68.3,4.1,52.5,60.3
+STU-1744,Komal Patel,Grade 12,C,100.0,84.1,6.6,75.8,82.8
+STU-1745,Nandini Iyer,Grade 10,A,70.1,75.5,4.4,63.4,64.4
+STU-1746,Sunita Sharma,AI & DS - Sem 3,A,74.7,62.6,2.2,53.4,57.5
+STU-1747,Siddharth Bhatia,AI & DS - Sem 3,B,69.2,58.8,3.3,49.6,56.9
+STU-1748,Nikhil Sharma,AI & DS - Sem 5,B,80.8,85.6,6.5,73.2,80.9
+STU-1749,Nikhil Mishra,AI & DS - Sem 3,A,75.9,67.5,3.6,53.4,58.0
+STU-1750,Sunita Malhotra,AI & DS - Sem 3,B,76.7,80.4,4.0,55.8,69.0
+STU-1751,Varun Saxena,AI & DS - Sem 5,C,78.7,71.3,3.8,49.8,68.5
+STU-1752,Harish Aggarwal,Grade 10,A,57.9,55.3,2.1,24.2,48.5
+STU-1753,Neha Reddy,Grade 10,C,80.7,71.4,3.2,55.1,62.7
+STU-1754,Nikhil Pandey,AI & DS - Sem 3,A,85.0,84.2,4.7,67.3,77.3
+STU-1755,Deepak Patel,Grade 11,A,81.1,70.9,4.2,65.1,61.3
+STU-1756,Ananya Sharma,AI & DS - Sem 5,C,66.7,38.8,0.5,33.8,45.0
+STU-1757,Shruti Deshmukh,Grade 12,C,68.2,67.8,3.8,62.4,58.9
+STU-1758,Karan Yadav,Grade 10,B,76.0,79.0,3.5,51.5,68.0
+STU-1759,Isha Bose,AI & DS - Sem 5,A,77.1,75.9,5.5,49.7,68.1
+STU-1760,Siddharth Iyer,Grade 10,C,71.4,44.2,0.5,38.4,46.3
+STU-1761,Harish Bose,AI & DS - Sem 3,B,73.7,63.2,2.4,52.6,57.7
+STU-1762,Ayush Joshi,Grade 12,C,56.7,43.8,1.4,41.8,41.6
+STU-1763,Riyaz Mishra,AI & DS - Sem 5,B,61.9,50.5,2.4,38.1,43.3
+STU-1764,Siddharth Deshmukh,Grade 10,C,59.9,59.2,3.1,41.5,57.8
+STU-1765,Aditya Sharma,Grade 10,A,72.5,58.4,1.7,50.6,56.8
+STU-1766,Bhavna Aggarwal,AI & DS - Sem 3,C,74.6,64.6,3.3,43.7,61.8
+STU-1767,Sneha Sharma,Grade 12,C,97.5,86.8,5.2,66.0,85.3
+STU-1768,Nikhil Nair,Grade 11,C,88.9,83.9,3.8,53.8,74.0
+STU-1769,Amit Reddy,AI & DS - Sem 5,A,82.2,73.9,4.0,53.8,60.1
+STU-1770,Siddharth Mehta,AI & DS - Sem 5,A,84.5,63.3,1.3,52.7,55.7
+STU-1771,Neha Pandey,Grade 10,B,63.6,55.4,2.3,37.8,46.1
+STU-1772,Priya Singh,Grade 10,B,74.6,67.7,4.0,55.9,66.0
+STU-1773,Ritu Joshi,Grade 11,C,87.1,95.0,4.7,63.9,85.4
+STU-1774,Ayush Aggarwal,Grade 11,A,65.3,66.4,1.1,45.8,51.2
+STU-1775,Tara Rao,AI & DS - Sem 3,A,84.6,75.7,3.5,64.3,67.2
+STU-1776,Kunal Kulkarni,Grade 12,B,78.3,73.0,4.3,61.9,67.6
+STU-1777,Shreya Mehta,Grade 12,A,74.4,77.1,4.3,48.3,61.8
+STU-1778,Priya Rao,Grade 10,B,98.5,90.9,5.4,70.6,76.0
+STU-1779,Gaurav Verma,Grade 12,B,74.4,56.9,2.2,55.5,56.7
+STU-1780,Kavya Mehta,Grade 11,A,78.1,70.8,4.0,56.4,68.8
+STU-1781,Manish Singh,Grade 11,B,82.3,68.3,3.3,60.5,64.9
+STU-1782,Kavya Pandey,AI & DS - Sem 3,B,70.2,68.2,3.7,54.2,60.8
+STU-1783,Anjali Nair,Grade 11,C,63.0,62.1,2.8,45.6,52.2
+STU-1784,Karan Bhatia,AI & DS - Sem 3,C,76.9,60.6,3.5,54.0,59.1
+STU-1785,Shruti Joshi,Grade 12,B,100.0,91.1,8.7,87.1,95.3
+STU-1786,Priya Pandey,Grade 10,A,63.9,50.3,0.8,29.1,47.5
+STU-1787,Vikram Das,Grade 12,C,61.2,63.3,2.3,38.2,53.1
+STU-1788,Kavya Verma,AI & DS - Sem 3,B,83.6,79.1,2.5,45.6,59.3
+STU-1789,Ayush Menon,Grade 12,A,76.6,73.3,5.2,66.5,65.0
+STU-1790,Sneha Sharma,Grade 10,C,77.8,54.9,3.1,46.7,50.7
+STU-1791,Ayush Mishra,Grade 10,B,62.9,46.9,1.3,31.4,45.7
+STU-1792,Swati Saxena,Grade 12,B,67.8,63.4,4.5,53.9,63.0
+STU-1793,Amit Kapoor,AI & DS - Sem 3,C,66.4,62.4,1.4,33.8,45.4
+STU-1794,Tara Nair,AI & DS - Sem 5,C,64.6,59.2,2.4,40.9,56.8
+STU-1795,Varun Mahammad,AI & DS - Sem 5,C,88.5,73.1,3.0,62.5,70.2
+STU-1796,Priya Aggarwal,Grade 11,C,92.3,78.6,4.2,71.2,70.4
+STU-1797,Rajesh Rao,AI & DS - Sem 5,C,82.7,87.3,5.0,57.7,80.3
+STU-1798,Aditya Chatterjee,Grade 11,B,67.0,57.6,2.9,48.1,49.7
+STU-1799,Tara Joshi,Grade 10,C,78.7,70.7,3.2,52.1,62.6
+STU-1800,Siddharth Deshmukh,AI & DS - Sem 5,B,85.3,84.1,4.2,63.3,75.1
+STU-1801,Komal Aggarwal,Grade 11,B,83.7,78.6,3.0,52.7,64.8
+STU-1802,Nikhil Saxena,Grade 12,C,76.5,74.2,3.8,51.8,64.0
+STU-1803,Deepak Chatterjee,Grade 10,B,66.2,68.5,4.6,59.8,67.3
+STU-1804,Sameer Reddy,AI & DS - Sem 5,B,70.2,60.7,2.9,45.7,51.3
+STU-1805,Sameer Pillai,Grade 11,C,83.6,73.9,3.3,64.7,67.7
+STU-1806,Sneha Menon,Grade 12,A,71.1,63.1,2.3,44.1,52.7
+STU-1807,Sneha Rao,AI & DS - Sem 5,B,78.5,69.8,4.7,60.2,64.4
+STU-1808,Ayush Yadav,Grade 10,C,77.1,40.6,0.5,34.6,41.9
+STU-1809,Tanvi Joshi,AI & DS - Sem 5,C,95.9,82.5,6.4,79.7,83.4
+STU-1810,Sneha Mahammad,Grade 12,C,88.2,82.4,5.9,76.3,79.4
+STU-1811,Vikram Kulkarni,Grade 11,C,100.0,71.4,4.4,57.9,72.6
+STU-1812,Aarav Reddy,Grade 12,C,87.2,70.6,3.8,57.3,72.4
+STU-1813,Ritu Bhatia,AI & DS - Sem 3,B,67.9,58.6,2.3,40.9,52.0
+STU-1814,Komal Mahammad,AI & DS - Sem 3,B,64.1,67.2,3.9,50.1,58.3
+STU-1815,Anjali Pillai,Grade 11,A,67.6,46.2,0.9,39.2,46.5
+STU-1816,Siddharth Malhotra,Grade 10,B,78.9,74.5,3.8,55.2,68.0
+STU-1817,Pooja Ghosh,AI & DS - Sem 5,B,69.2,67.2,3.2,50.3,60.7
+STU-1818,Shruti Das,Grade 10,B,79.8,77.7,4.5,60.3,66.6
+STU-1819,Pooja Das,AI & DS - Sem 3,A,67.5,59.4,3.5,45.9,48.4
+STU-1820,Varun Aggarwal,Grade 11,B,74.9,71.8,4.3,59.4,61.9
+STU-1821,Aditya Kapoor,AI & DS - Sem 5,A,84.5,67.8,3.5,56.8,60.2
+STU-1822,Shreya Kapoor,Grade 10,C,89.0,79.9,4.4,64.5,72.4
+STU-1823,Rajesh Pillai,Grade 11,C,65.7,68.1,3.3,39.2,60.0
+STU-1824,Isha Chatterjee,AI & DS - Sem 3,A,73.1,60.5,2.3,44.6,55.0
+STU-1825,Priya Ghosh,AI & DS - Sem 5,A,84.8,94.5,3.4,49.1,71.6
+STU-1826,Isha Malhotra,AI & DS - Sem 3,C,78.3,76.5,3.7,53.4,62.3
+STU-1827,Ritu Mishra,Grade 11,B,81.3,71.4,2.5,57.3,63.0
+STU-1828,Vikram Mehta,Grade 12,C,74.9,82.9,4.9,58.6,69.1
+STU-1829,Aarav Patel,Grade 11,A,84.7,74.9,3.1,64.7,65.0
+STU-1830,Kavya Chatterjee,Grade 10,C,56.8,64.4,2.6,41.3,51.5
+STU-1831,Shreya Ghosh,AI & DS - Sem 5,C,71.8,61.2,3.6,54.3,60.7
+STU-1832,Kunal Mishra,Grade 11,C,49.3,57.5,1.9,35.2,44.8
+STU-1833,Riyaz Chopra,Grade 12,C,87.6,99.0,6.2,63.5,82.1
+STU-1834,Siddharth Malhotra,Grade 10,A,47.1,46.7,0.7,23.6,33.0
+STU-1835,Pooja Verma,Grade 11,A,73.3,83.8,4.9,57.8,74.9
+STU-1836,Sneha Menon,Grade 12,A,99.1,99.0,7.1,78.7,89.1
+STU-1837,Nikhil Mishra,Grade 11,B,100.0,99.0,6.6,78.2,86.8
+STU-1838,Gaurav Chatterjee,AI & DS - Sem 5,A,82.5,96.5,4.2,64.6,72.0
+STU-1839,Manish Deshmukh,Grade 11,A,98.6,95.4,6.5,91.2,87.8
+STU-1840,Anjali Malhotra,Grade 11,B,61.8,55.9,0.6,33.7,50.5
+STU-1841,Shruti Chopra,AI & DS - Sem 5,B,91.0,91.2,6.0,78.3,88.6
+STU-1842,Manish Yadav,AI & DS - Sem 3,C,62.0,45.1,1.1,38.7,39.2
+STU-1843,Neha Chatterjee,Grade 10,C,46.5,36.3,0.5,21.5,28.4
+STU-1844,Varun Verma,AI & DS - Sem 5,C,74.2,68.3,4.9,60.0,67.3
+STU-1845,Rajesh Aggarwal,Grade 10,B,79.9,60.0,1.8,45.4,60.7
+STU-1846,Amit Mehta,AI & DS - Sem 5,B,84.0,80.9,4.0,58.2,71.9
+STU-1847,Rahul Choudhury,AI & DS - Sem 5,C,67.6,75.9,3.7,54.1,60.8
+STU-1848,Shruti Chatterjee,AI & DS - Sem 3,B,65.7,63.5,3.1,46.2,55.0
+STU-1849,Riyaz Das,AI & DS - Sem 5,A,95.8,85.4,5.0,70.4,78.2
+STU-1850,Tanvi Sharma,Grade 11,A,86.8,62.0,3.0,64.9,64.8
+STU-1851,Ritu Aggarwal,AI & DS - Sem 5,A,63.5,60.7,3.8,55.3,60.9
+STU-1852,Sunita Nair,Grade 12,C,78.0,56.0,4.0,49.7,55.7
+STU-1853,Divya Mahammad,Grade 12,B,81.7,75.6,3.6,60.9,68.6
+STU-1854,Siddharth Verma,AI & DS - Sem 3,B,72.8,67.3,3.2,48.2,60.0
+STU-1855,Meera Joshi,Grade 10,A,80.7,61.6,3.5,48.3,58.6
+STU-1856,Shreya Iyer,AI & DS - Sem 3,B,85.9,75.2,3.0,61.5,73.1
+STU-1857,Siddharth Deshmukh,Grade 11,A,82.7,71.7,3.1,44.9,65.0
+STU-1858,Nandini Gupta,AI & DS - Sem 3,A,68.9,65.7,2.2,44.3,56.4
+STU-1859,Amit Chatterjee,Grade 10,C,69.8,80.9,4.1,56.9,70.3
+STU-1860,Pooja Yadav,AI & DS - Sem 5,A,66.3,64.0,3.4,48.8,58.3
+STU-1861,Siddharth Menon,AI & DS - Sem 3,A,73.8,67.2,3.8,62.1,69.7
+STU-1862,Sneha Pillai,AI & DS - Sem 3,C,61.4,56.0,1.0,43.2,51.4
+STU-1863,Komal Iyer,AI & DS - Sem 5,A,59.4,69.7,2.7,40.9,56.2
+STU-1864,Meera Rao,AI & DS - Sem 5,B,66.9,38.6,2.3,49.4,40.2
+STU-1865,Vikram Bose,Grade 11,C,75.1,69.6,3.8,55.4,68.7
+STU-1866,Nandini Aggarwal,Grade 12,C,71.3,68.3,3.5,59.4,54.3
+STU-1867,Sunita Mishra,AI & DS - Sem 5,C,59.7,57.4,2.5,52.2,48.4
+STU-1868,Divya Mishra,Grade 12,B,58.4,43.4,1.1,44.4,45.3
+STU-1869,Divya Kulkarni,AI & DS - Sem 5,A,91.6,99.0,4.5,59.6,76.9
+STU-1870,Ritu Malhotra,Grade 12,A,67.0,45.5,1.4,33.5,46.3
+STU-1871,Anjali Singh,AI & DS - Sem 3,C,59.5,36.1,0.9,40.4,34.3
+STU-1872,Nikhil Malhotra,AI & DS - Sem 5,B,73.7,64.6,3.4,49.8,57.8
+STU-1873,Neha Kulkarni,Grade 11,B,84.0,99.0,3.7,59.5,77.3
+STU-1874,Neha Kapoor,Grade 12,B,58.9,58.4,2.6,44.5,44.2
+STU-1875,Varun Kulkarni,AI & DS - Sem 3,C,77.2,60.8,3.3,51.3,61.2
+STU-1876,Harish Rao,Grade 12,B,87.1,79.9,6.1,76.1,82.4
+STU-1877,Riyaz Sharma,Grade 11,A,66.5,57.7,4.9,55.2,56.1
+STU-1878,Swati Iyer,AI & DS - Sem 5,A,82.2,78.0,5.6,66.9,80.2
+STU-1879,Ayush Patel,Grade 11,C,67.6,65.3,2.6,49.1,52.7
+STU-1880,Harish Deshmukh,Grade 12,A,98.3,89.4,3.5,56.8,77.4
+STU-1881,Shruti Yadav,Grade 10,C,80.2,64.9,3.6,64.2,67.1
+STU-1882,Ritu Choudhury,Grade 10,A,93.1,83.4,3.3,60.8,78.5
+STU-1883,Harish Ghosh,Grade 11,B,90.5,76.5,4.3,56.5,64.7
+STU-1884,Ananya Nair,Grade 10,B,67.0,48.0,2.2,51.6,53.3
+STU-1885,Rajesh Verma,Grade 10,B,90.6,84.3,4.7,68.0,78.2
+STU-1886,Neha Sharma,AI & DS - Sem 5,A,61.0,71.5,4.4,61.6,67.6
+STU-1887,Neha Joshi,Grade 12,A,69.4,66.2,2.0,44.8,54.8
+STU-1888,Siddharth Rao,Grade 10,A,86.4,95.4,7.3,78.7,86.0
+STU-1889,Rohan Bhatia,Grade 10,B,79.9,63.6,5.5,74.6,69.7
+STU-1890,Nikhil Patel,AI & DS - Sem 3,B,70.2,71.6,3.3,50.9,57.9
+STU-1891,Manish Joshi,AI & DS - Sem 3,B,55.4,52.5,4.5,45.3,50.3
+STU-1892,Rohan Patel,AI & DS - Sem 3,C,87.2,86.1,5.2,67.0,74.2
+STU-1893,Sameer Deshmukh,Grade 11,A,85.0,66.2,3.0,49.3,60.8
+STU-1894,Rajesh Kulkarni,Grade 10,C,74.0,64.4,2.6,45.1,60.9
+STU-1895,Ritu Gupta,Grade 12,C,74.7,65.7,0.5,44.7,58.3
+STU-1896,Isha Choudhury,Grade 12,C,81.0,67.7,3.4,61.4,67.4
+STU-1897,Isha Singh,AI & DS - Sem 5,A,77.1,68.6,4.3,60.1,67.2
+STU-1898,Kavya Malhotra,AI & DS - Sem 3,A,88.3,72.7,4.3,78.2,76.1
+STU-1899,Tanvi Sharma,AI & DS - Sem 5,C,95.3,80.6,4.3,63.6,78.2
+STU-1900,Deepak Iyer,AI & DS - Sem 5,B,68.5,59.0,3.4,43.1,51.4
+STU-1901,Nandini Chopra,Grade 10,A,83.5,79.3,3.6,57.2,70.9
+STU-1902,Tanvi Ghosh,Grade 11,A,63.8,50.2,1.0,39.4,47.9
+STU-1903,Manish Chopra,Grade 12,A,66.5,59.3,3.5,57.3,60.1
+STU-1904,Priya Mahammad,AI & DS - Sem 5,C,84.0,76.5,4.3,66.0,72.8
+STU-1905,Arjun Das,Grade 10,B,75.7,67.2,3.8,61.4,64.1
+STU-1906,Nandini Kulkarni,AI & DS - Sem 3,C,84.1,77.8,2.7,64.4,64.9
+STU-1907,Komal Joshi,AI & DS - Sem 3,C,75.1,82.9,4.1,59.4,63.4
+STU-1908,Aarav Nair,Grade 11,C,61.9,68.8,3.2,41.5,61.4
+STU-1909,Deepak Aggarwal,Grade 10,C,67.7,68.5,3.5,42.5,56.1
+STU-1910,Sameer Reddy,AI & DS - Sem 5,C,66.4,61.5,2.8,45.4,50.4
+STU-1911,Harish Joshi,Grade 12,B,65.6,75.1,3.7,60.5,69.0
+STU-1912,Siddharth Yadav,Grade 10,A,71.2,62.6,2.5,53.6,52.1
+STU-1913,Karan Saxena,AI & DS - Sem 5,B,74.0,54.3,1.2,39.4,48.6
+STU-1914,Bhavna Das,Grade 11,A,75.9,70.3,4.4,47.9,60.4
+STU-1915,Kavya Pillai,AI & DS - Sem 5,C,75.0,53.8,3.6,42.5,55.1
+STU-1916,Meera Rao,Grade 10,C,71.1,70.3,5.8,60.6,65.3
+STU-1917,Rohan Mahammad,AI & DS - Sem 3,B,94.5,99.0,5.0,71.6,83.6
+STU-1918,Vikram Choudhury,Grade 11,C,90.7,91.5,5.4,66.3,72.5
+STU-1919,Aditya Bhatia,Grade 11,A,66.1,69.7,4.7,55.3,61.4
+STU-1920,Karan Pandey,Grade 12,B,71.2,49.0,1.2,43.6,46.9
+STU-1921,Deepak Aggarwal,AI & DS - Sem 5,B,83.1,77.6,5.0,62.7,76.7
+STU-1922,Arjun Malhotra,Grade 10,C,64.0,57.4,3.0,44.9,50.5
+STU-1923,Meera Das,Grade 11,C,91.8,83.1,4.7,67.1,73.0
+STU-1924,Vikram Bose,AI & DS - Sem 5,B,92.2,62.6,2.7,62.5,65.0
+STU-1925,Komal Sharma,Grade 12,C,67.6,49.3,1.4,45.0,50.2
+STU-1926,Kavya Patel,Grade 11,B,66.9,69.8,2.7,51.5,56.3
+STU-1927,Kavya Verma,Grade 11,A,73.0,59.6,3.3,48.0,59.3
+STU-1928,Amit Pandey,Grade 10,A,67.9,60.6,3.7,44.8,47.6
+STU-1929,Deepak Sharma,Grade 11,A,74.9,46.7,1.7,49.3,48.9
+STU-1930,Rajesh Patel,Grade 12,C,85.7,78.2,4.0,63.3,68.0
+STU-1931,Varun Verma,Grade 12,A,64.4,55.9,2.4,44.2,36.5
+STU-1932,Kavya Verma,AI & DS - Sem 3,C,80.5,85.5,6.4,62.5,79.1
+STU-1933,Gaurav Sharma,AI & DS - Sem 3,B,89.8,87.7,6.1,71.6,82.9
+STU-1934,Rahul Kapoor,AI & DS - Sem 3,C,73.8,90.8,3.1,57.6,63.1
+STU-1935,Sneha Joshi,Grade 12,A,81.5,51.1,2.2,63.7,57.8
+STU-1936,Ritu Bose,AI & DS - Sem 5,A,49.9,38.6,0.5,20.8,36.1
+STU-1937,Pooja Kulkarni,Grade 11,C,83.0,67.2,2.6,50.2,58.7
+STU-1938,Arjun Ghosh,AI & DS - Sem 5,B,54.8,37.5,1.4,31.6,39.0
+STU-1939,Komal Das,AI & DS - Sem 5,B,64.0,46.9,1.3,42.5,47.3
+STU-1940,Harish Kapoor,Grade 11,A,66.8,64.1,0.9,32.2,49.5
+STU-1941,Sunita Deshmukh,Grade 12,C,78.3,61.2,3.9,57.1,68.3
+STU-1942,Rahul Patel,AI & DS - Sem 3,C,73.2,61.6,2.7,47.8,58.2
+STU-1943,Priya Verma,Grade 12,B,75.1,54.5,1.9,49.9,53.2
+STU-1944,Rahul Deshmukh,Grade 10,C,76.4,73.1,3.7,51.3,68.5
+STU-1945,Nikhil Nair,Grade 11,B,72.9,60.4,0.9,40.8,53.2
+STU-1946,Ritu Malhotra,AI & DS - Sem 3,A,65.7,66.1,3.4,48.7,51.1
+STU-1947,Nandini Mishra,Grade 10,A,66.5,63.3,1.8,41.2,53.8
+STU-1948,Kunal Reddy,Grade 10,B,61.4,54.8,2.3,45.2,44.7
+STU-1949,Tanvi Iyer,Grade 12,B,81.9,71.6,3.4,60.6,61.0
+STU-1950,Harish Kapoor,AI & DS - Sem 5,B,77.5,58.8,4.9,65.0,60.4
+STU-1951,Vikram Kapoor,AI & DS - Sem 5,B,75.9,67.5,3.6,60.2,62.1
+STU-1952,Divya Mishra,Grade 10,A,80.0,64.4,5.3,64.8,67.8
+STU-1953,Divya Nair,AI & DS - Sem 5,B,57.7,43.0,0.5,35.6,30.6
+STU-1954,Sneha Chatterjee,Grade 11,B,92.0,75.9,4.3,70.2,71.0
+STU-1955,Tanvi Pillai,Grade 12,B,70.4,81.5,3.2,39.1,68.0
+STU-1956,Tara Gupta,AI & DS - Sem 5,C,84.0,72.8,4.6,67.9,67.2
+STU-1957,Pooja Mahammad,Grade 11,C,90.3,80.5,4.0,67.8,76.0
+STU-1958,Siddharth Pandey,AI & DS - Sem 3,A,65.3,61.7,2.4,48.9,52.6
+STU-1959,Isha Yadav,AI & DS - Sem 3,C,83.4,46.9,1.9,51.6,55.8
+STU-1960,Deepak Patel,AI & DS - Sem 3,B,72.0,65.2,2.3,50.3,58.3
+STU-1961,Pooja Choudhury,AI & DS - Sem 3,A,66.0,55.9,3.0,50.2,53.8
+STU-1962,Shreya Chatterjee,Grade 11,C,88.6,70.5,5.0,74.4,80.5
+STU-1963,Sneha Kapoor,Grade 11,B,81.3,75.6,5.2,58.8,66.0
+STU-1964,Kavya Chopra,Grade 12,B,76.6,67.7,4.5,51.0,57.7
+STU-1965,Gaurav Menon,AI & DS - Sem 3,C,78.8,75.4,5.0,55.9,65.2
+STU-1966,Amit Pillai,Grade 12,B,80.5,70.5,2.7,44.5,59.1
+STU-1967,Amit Singh,AI & DS - Sem 3,B,70.9,79.0,3.8,53.0,64.4
+STU-1968,Priya Saxena,Grade 10,C,93.4,73.4,4.2,59.5,77.8
+STU-1969,Nandini Kulkarni,AI & DS - Sem 5,B,66.1,61.6,3.3,49.4,58.8
+STU-1970,Anjali Menon,Grade 12,A,68.0,71.5,3.5,57.4,63.5
+STU-1971,Neha Pandey,Grade 12,C,84.1,64.9,4.0,49.0,72.1
+STU-1972,Tara Menon,Grade 10,A,67.6,54.6,1.0,43.9,50.9
+STU-1973,Ananya Patel,Grade 12,A,88.1,68.4,3.4,56.0,65.0
+STU-1974,Manish Verma,Grade 11,A,80.1,79.6,6.1,67.7,75.1
+STU-1975,Ritu Menon,Grade 10,C,65.3,65.3,3.2,53.7,51.2
+STU-1976,Karan Choudhury,Grade 10,A,99.7,78.3,5.7,75.1,74.9
+STU-1977,Gaurav Malhotra,Grade 12,C,86.4,50.8,3.1,57.5,57.0
+STU-1978,Ananya Nair,Grade 10,B,79.8,66.2,5.5,63.7,67.9
+STU-1979,Sunita Malhotra,AI & DS - Sem 3,A,72.8,81.5,5.6,61.4,70.4
+STU-1980,Vikram Deshmukh,AI & DS - Sem 5,A,83.9,66.7,2.1,34.3,49.7
+STU-1981,Anjali Kulkarni,AI & DS - Sem 3,B,77.0,72.6,4.9,58.0,76.7
+STU-1982,Meera Ghosh,Grade 10,C,60.7,75.3,0.8,34.2,47.3
+STU-1983,Sneha Yadav,Grade 12,A,94.1,73.8,4.3,55.7,65.8
+STU-1984,Kavya Deshmukh,Grade 10,C,78.7,64.3,2.8,62.0,62.4
+STU-1985,Sameer Chopra,AI & DS - Sem 3,A,75.8,69.0,4.7,57.9,70.0
+STU-1986,Neha Chopra,AI & DS - Sem 5,A,85.6,85.1,5.0,65.4,83.6
+STU-1987,Ritu Sharma,AI & DS - Sem 5,B,60.9,59.6,2.0,41.1,53.2
+STU-1988,Ananya Malhotra,Grade 10,C,77.3,43.8,0.5,49.7,50.2
+STU-1989,Riyaz Gupta,AI & DS - Sem 3,A,69.5,63.7,3.1,41.8,52.5
+STU-1990,Ayush Deshmukh,Grade 12,C,75.9,66.5,4.6,58.1,62.8
+STU-1991,Rahul Verma,Grade 12,C,74.0,77.6,4.8,58.4,66.6
+STU-1992,Shreya Das,AI & DS - Sem 3,B,87.9,77.1,4.7,62.2,72.5
+STU-1993,Deepak Chatterjee,Grade 10,B,89.3,91.8,4.5,60.9,79.8
+STU-1994,Shruti Bhatia,Grade 12,C,88.7,63.4,3.1,57.3,63.9
+STU-1995,Sneha Das,Grade 11,A,81.5,74.8,3.8,58.4,66.7
+STU-1996,Swati Verma,AI & DS - Sem 3,A,73.0,48.3,2.7,45.5,47.8
+STU-1997,Shreya Sharma,Grade 10,C,64.8,39.0,2.5,42.4,43.7
+STU-1998,Kunal Bose,AI & DS - Sem 3,C,68.6,59.1,2.4,42.6,41.8
+STU-1999,Shreya Iyer,Grade 11,A,72.9,59.1,3.8,49.5,56.8
+STU-2000,Priya Nair,Grade 12,C,80.8,58.3,1.0,38.4,46.6
+STU-2001,Isha Mishra,AI & DS - Sem 5,C,82.5,68.7,3.4,49.9,62.8
+STU-2002,Harish Reddy,Grade 11,C,86.0,69.4,4.9,63.5,68.9
+STU-2003,Sameer Kulkarni,AI & DS - Sem 3,C,83.8,73.0,5.4,77.2,74.8
+STU-2004,Swati Mahammad,Grade 10,B,66.4,56.8,1.9,50.4,56.9
+STU-2005,Amit Chatterjee,AI & DS - Sem 5,A,71.5,67.2,2.0,39.4,53.3
+STU-2006,Sunita Ghosh,Grade 12,C,85.6,98.4,5.2,63.8,84.9
+STU-2007,Amit Bose,AI & DS - Sem 3,A,78.8,70.8,5.4,58.1,67.8
+STU-2008,Isha Das,Grade 12,B,80.7,58.1,4.4,52.0,59.9
+STU-2009,Harish Gupta,Grade 10,A,100.0,78.6,4.2,63.4,68.1
+STU-2010,Manish Nair,Grade 12,B,84.8,93.0,6.4,70.3,77.5
+STU-2011,Shreya Choudhury,AI & DS - Sem 3,C,56.9,48.6,0.5,26.9,41.6
+STU-2012,Shruti Choudhury,Grade 12,B,82.1,65.5,3.9,66.5,68.8
+STU-2013,Deepak Mehta,Grade 11,B,68.0,56.0,1.0,30.9,37.5
+STU-2014,Isha Mahammad,Grade 10,B,74.1,69.6,5.0,62.6,59.9
+STU-2015,Sneha Mishra,AI & DS - Sem 5,B,81.4,70.2,3.4,55.2,68.4
+STU-2016,Deepak Kulkarni,AI & DS - Sem 5,B,88.2,68.6,6.0,67.9,72.2
+STU-2017,Rajesh Mishra,AI & DS - Sem 3,C,58.9,62.8,3.5,37.8,52.7
+STU-2018,Nikhil Yadav,Grade 12,C,88.2,67.8,3.3,59.2,65.1
+STU-2019,Rahul Mehta,AI & DS - Sem 5,B,98.7,84.5,6.1,80.4,83.5
+STU-2020,Anjali Bhatia,AI & DS - Sem 3,B,81.8,64.2,3.3,62.8,73.0
+STU-2021,Karan Kulkarni,Grade 12,C,75.6,64.5,5.4,65.2,65.3
+STU-2022,Meera Mishra,AI & DS - Sem 3,B,72.2,61.6,2.4,46.2,57.8
+STU-2023,Ayush Bhatia,AI & DS - Sem 5,C,74.2,54.5,1.3,46.9,50.7
+STU-2024,Sunita Chatterjee,Grade 11,A,74.2,66.5,2.3,47.1,56.1
+STU-2025,Karan Aggarwal,AI & DS - Sem 3,B,99.7,78.6,4.7,75.4,80.3
+STU-2026,Deepak Malhotra,AI & DS - Sem 3,C,65.3,54.7,3.0,37.0,51.0
+STU-2027,Meera Malhotra,AI & DS - Sem 3,C,78.5,62.1,2.6,54.4,57.5
+STU-2028,Rajesh Mehta,AI & DS - Sem 3,C,69.2,35.7,3.2,59.6,43.7
+STU-2029,Rahul Nair,Grade 11,B,73.4,61.3,2.8,46.6,54.1
+STU-2030,Komal Nair,AI & DS - Sem 3,C,92.8,75.0,4.5,65.4,69.9
+STU-2031,Neha Choudhury,AI & DS - Sem 5,B,77.2,74.0,4.0,62.0,65.7
+STU-2032,Tara Patel,Grade 10,B,65.1,43.4,0.9,31.1,43.0
+STU-2033,Ritu Kapoor,Grade 11,C,75.8,66.5,4.7,59.2,66.4
+STU-2034,Isha Rao,Grade 11,C,72.3,54.4,1.0,32.9,46.4
+STU-2035,Rajesh Joshi,Grade 12,A,66.4,83.0,2.4,42.4,60.8
+STU-2036,Meera Kapoor,Grade 11,B,75.3,57.4,0.7,36.4,51.8
+STU-2037,Aditya Choudhury,Grade 10,A,58.5,61.0,5.3,50.1,64.9
+STU-2038,Divya Patel,AI & DS - Sem 5,A,53.0,63.4,1.3,27.0,39.6
+STU-2039,Meera Kapoor,Grade 11,B,77.1,71.9,4.8,50.2,61.7
+STU-2040,Komal Chopra,Grade 10,A,73.4,80.4,5.3,64.1,62.5
+STU-2041,Arjun Kapoor,Grade 11,C,58.8,61.2,3.7,52.4,58.2
+STU-2042,Riyaz Patel,AI & DS - Sem 5,B,80.6,72.5,2.9,58.0,69.2
+STU-2043,Priya Bose,Grade 12,B,87.6,60.8,4.1,69.3,67.4
+STU-2044,Rahul Mehta,AI & DS - Sem 5,C,84.8,87.4,4.6,59.6,73.5
+STU-2045,Ritu Saxena,Grade 11,B,57.3,49.5,1.3,36.7,36.0
+STU-2046,Bhavna Reddy,Grade 12,B,77.7,66.5,2.4,38.4,58.2
+STU-2047,Tanvi Saxena,Grade 10,C,78.0,70.4,2.3,44.7,59.6
+STU-2048,Priya Joshi,Grade 12,B,69.4,67.9,5.4,57.4,65.6
+STU-2049,Priya Sharma,Grade 11,A,75.1,79.6,4.5,58.6,61.8
+STU-2050,Gaurav Chatterjee,AI & DS - Sem 3,B,65.8,62.3,2.7,43.4,52.4
+STU-2051,Siddharth Bhatia,AI & DS - Sem 3,A,94.9,99.0,5.2,62.4,87.1
+STU-2052,Siddharth Chatterjee,Grade 10,B,82.1,71.0,3.3,54.2,68.0
+STU-2053,Neha Iyer,Grade 12,A,75.0,60.9,4.4,51.6,55.7
+STU-2054,Rohan Chopra,Grade 11,C,75.2,58.4,3.6,56.3,65.8
+STU-2055,Sunita Verma,Grade 11,A,81.9,53.1,1.2,45.1,50.4
+STU-2056,Nandini Singh,AI & DS - Sem 3,B,66.4,57.7,2.8,51.6,50.0
+STU-2057,Sunita Gupta,Grade 10,A,79.4,58.5,2.4,52.4,59.8
+STU-2058,Vikram Menon,Grade 12,A,70.5,74.9,4.4,55.6,71.9
+STU-2059,Amit Gupta,Grade 12,C,82.5,59.8,3.5,51.4,60.6
+STU-2060,Gaurav Patel,Grade 12,B,62.0,71.5,3.7,50.4,58.4
+STU-2061,Harish Kapoor,AI & DS - Sem 5,C,73.1,61.3,3.9,55.5,58.0
+STU-2062,Aarav Nair,Grade 12,A,68.4,57.6,2.1,46.2,60.4
+STU-2063,Deepak Gupta,Grade 12,B,81.3,67.9,5.2,57.0,61.0
+STU-2064,Neha Sharma,Grade 11,A,72.8,78.6,2.3,51.6,65.5
+STU-2065,Karan Mishra,AI & DS - Sem 5,B,74.2,63.5,2.9,39.9,58.8
+STU-2066,Nikhil Verma,Grade 11,B,65.2,61.8,3.1,47.6,54.2
+STU-2067,Riyaz Joshi,Grade 10,A,80.6,60.5,3.4,65.9,59.9
+STU-2068,Aditya Malhotra,AI & DS - Sem 3,A,63.2,55.3,1.8,38.9,47.8
+STU-2069,Priya Bhatia,AI & DS - Sem 3,B,77.4,65.6,2.1,47.1,57.5
+STU-2070,Manish Saxena,Grade 12,B,64.2,52.2,3.2,53.7,47.7
+STU-2071,Sameer Chopra,AI & DS - Sem 5,B,83.9,60.6,4.4,63.7,67.3
+STU-2072,Sneha Gupta,AI & DS - Sem 3,A,78.9,79.0,3.5,44.6,63.5
+STU-2073,Meera Nair,Grade 10,A,75.1,64.4,3.6,48.0,61.2
+STU-2074,Varun Pandey,Grade 11,A,84.2,77.6,4.1,65.5,64.3
+STU-2075,Karan Kulkarni,Grade 12,C,78.2,72.3,3.8,66.9,71.9
+STU-2076,Isha Pandey,Grade 10,C,63.4,62.6,4.0,42.0,51.7
+STU-2077,Nikhil Mehta,Grade 11,B,90.8,77.5,5.5,71.0,74.6
+STU-2078,Anjali Gupta,AI & DS - Sem 3,A,60.5,75.5,1.8,40.2,55.9
+STU-2079,Ayush Gupta,Grade 12,A,77.7,66.7,2.7,48.1,52.8
+STU-2080,Shreya Singh,AI & DS - Sem 3,C,85.2,95.2,5.0,60.7,80.1
+STU-2081,Rohan Menon,AI & DS - Sem 5,C,80.6,99.0,5.9,73.3,79.3
+STU-2082,Siddharth Pandey,Grade 12,A,56.0,54.8,3.0,44.3,50.5
+STU-2083,Amit Nair,AI & DS - Sem 5,A,81.6,77.3,4.5,62.0,75.6
+STU-2084,Shruti Mehta,AI & DS - Sem 3,C,63.5,66.1,3.0,53.2,58.0
+STU-2085,Isha Deshmukh,Grade 12,A,70.9,66.5,2.1,48.2,57.5
+STU-2086,Komal Das,Grade 11,C,72.9,54.4,3.3,51.0,58.7
+STU-2087,Tanvi Singh,AI & DS - Sem 5,C,66.4,49.3,2.8,39.0,47.1
+STU-2088,Ananya Iyer,Grade 11,C,74.3,64.1,2.1,49.7,56.3
+STU-2089,Komal Malhotra,Grade 11,C,83.8,60.0,2.2,58.9,66.2
+STU-2090,Rajesh Malhotra,Grade 10,B,58.4,57.2,3.2,34.5,51.7
+STU-2091,Tanvi Ghosh,Grade 12,B,84.6,73.6,4.0,55.2,67.5
+STU-2092,Divya Yadav,Grade 10,A,93.1,95.4,4.1,64.2,79.7
+STU-2093,Tanvi Reddy,Grade 12,B,71.0,65.7,3.2,51.9,53.6
+STU-2094,Kavya Kapoor,AI & DS - Sem 5,B,68.1,64.6,2.8,50.2,58.3
+STU-2095,Ananya Verma,Grade 12,A,74.3,60.9,4.4,61.3,56.1
+STU-2096,Ayush Verma,Grade 12,A,72.6,81.0,4.4,60.3,66.4
+STU-2097,Rohan Singh,AI & DS - Sem 3,A,67.8,61.4,2.0,48.8,52.5
+STU-2098,Rajesh Das,AI & DS - Sem 5,C,96.4,64.5,3.4,59.8,66.1
+STU-2099,Aarav Choudhury,AI & DS - Sem 5,C,79.1,67.0,4.6,55.1,68.3
+STU-2100,Sneha Verma,AI & DS - Sem 5,C,100.0,79.4,6.5,69.5,79.3
+STU-2101,Gaurav Joshi,Grade 11,A,85.7,73.0,3.4,59.2,68.3
+STU-2102,Deepak Aggarwal,Grade 12,A,63.2,72.4,3.0,44.1,61.1
+STU-2103,Rohan Mehta,AI & DS - Sem 5,B,71.5,72.2,3.6,43.2,58.1
+STU-2104,Tara Joshi,Grade 10,C,72.8,77.8,2.6,42.9,63.5
+STU-2105,Arjun Das,AI & DS - Sem 3,C,76.2,62.5,4.0,56.9,61.6
+STU-2106,Anjali Gupta,AI & DS - Sem 5,A,73.7,62.8,3.0,48.7,53.1
+STU-2107,Deepak Kapoor,AI & DS - Sem 5,A,91.4,76.2,3.6,61.8,72.7
+STU-2108,Tanvi Bhatia,AI & DS - Sem 5,A,84.7,74.7,4.3,61.6,72.4
+STU-2109,Amit Singh,Grade 12,C,86.6,88.2,3.9,53.8,78.7
+STU-2110,Sunita Pandey,AI & DS - Sem 5,A,83.6,94.0,5.2,60.8,84.1
+STU-2111,Komal Chopra,Grade 10,A,82.2,79.8,5.4,73.5,78.7
+STU-2112,Shreya Pillai,AI & DS - Sem 3,C,85.0,53.9,2.0,54.9,56.1
+STU-2113,Sneha Das,Grade 10,C,74.9,77.7,4.9,65.6,78.4
+STU-2114,Ritu Iyer,AI & DS - Sem 5,A,67.0,57.2,1.8,35.3,50.0
+STU-2115,Sameer Bhatia,Grade 11,C,68.4,64.3,1.8,44.4,49.8
+STU-2116,Pooja Patel,AI & DS - Sem 3,B,77.6,78.2,5.1,57.1,77.0
+STU-2117,Sunita Ghosh,AI & DS - Sem 5,A,78.6,69.0,2.7,51.8,66.5
+STU-2118,Shruti Mehta,AI & DS - Sem 5,C,80.6,59.1,3.9,61.9,61.4
+STU-2119,Bhavna Kapoor,AI & DS - Sem 5,B,78.1,61.6,1.7,45.4,54.3
+STU-2120,Ayush Das,AI & DS - Sem 5,B,86.6,61.4,1.7,54.0,59.8
+STU-2121,Aarav Yadav,AI & DS - Sem 5,A,98.2,70.0,4.7,78.6,73.8
+STU-2122,Swati Kapoor,Grade 11,A,71.5,81.1,5.4,52.8,66.2
+STU-2123,Ayush Kulkarni,AI & DS - Sem 3,C,74.3,68.7,3.4,54.1,63.7
+STU-2124,Karan Saxena,Grade 11,B,63.2,64.3,4.7,50.0,57.6
+STU-2125,Shreya Malhotra,AI & DS - Sem 3,A,80.2,67.8,3.2,60.4,58.7
+STU-2126,Rajesh Saxena,AI & DS - Sem 5,B,81.1,51.4,2.0,43.2,56.4
+STU-2127,Siddharth Mishra,AI & DS - Sem 3,B,73.9,81.2,4.6,50.4,65.4
+STU-2128,Ananya Verma,AI & DS - Sem 5,A,74.5,66.2,3.4,53.8,65.7
+STU-2129,Aarav Gupta,Grade 12,B,54.6,42.9,0.8,27.8,39.8
+STU-2130,Harish Pillai,AI & DS - Sem 5,B,86.7,74.9,5.8,77.1,75.1
+STU-2131,Manish Nair,Grade 10,A,78.8,59.0,3.0,54.2,59.2
+STU-2132,Neha Nair,Grade 10,C,65.0,60.4,1.6,41.8,53.4
+STU-2133,Siddharth Malhotra,Grade 10,A,74.9,75.8,4.8,57.0,62.6
+STU-2134,Karan Reddy,Grade 12,C,81.2,49.8,2.9,58.3,51.4
+STU-2135,Harish Reddy,AI & DS - Sem 5,C,74.5,79.7,3.2,60.4,59.4
+STU-2136,Ananya Joshi,Grade 10,A,89.3,71.3,3.0,62.3,67.9
+STU-2137,Sameer Joshi,AI & DS - Sem 5,C,78.8,82.0,3.8,56.7,69.4
+STU-2138,Amit Yadav,Grade 11,C,90.3,83.6,4.8,68.4,79.9
+STU-2139,Komal Menon,AI & DS - Sem 3,C,78.2,64.0,4.2,58.4,59.5
+STU-2140,Anjali Chopra,Grade 10,A,86.3,89.3,3.4,58.5,73.7
+STU-2141,Swati Singh,AI & DS - Sem 5,B,91.4,70.8,2.2,53.0,63.9
+STU-2142,Gaurav Deshmukh,Grade 12,A,77.4,58.1,3.0,51.8,59.3
+STU-2143,Tara Ghosh,AI & DS - Sem 5,C,69.6,56.3,3.3,42.8,42.9
+STU-2144,Anjali Nair,Grade 11,C,81.9,65.4,3.3,55.2,68.1
+STU-2145,Rajesh Mahammad,AI & DS - Sem 3,A,68.8,55.9,2.3,43.2,50.4
+STU-2146,Priya Yadav,AI & DS - Sem 5,B,56.8,48.5,2.2,46.7,46.4
+STU-2147,Bhavna Mahammad,AI & DS - Sem 5,B,82.4,93.8,5.0,59.5,75.4
+STU-2148,Ritu Nair,Grade 10,C,67.0,77.4,4.3,55.1,68.8
+STU-2149,Harish Verma,AI & DS - Sem 3,C,74.9,72.5,3.5,54.3,69.1
+STU-2150,Swati Choudhury,AI & DS - Sem 5,B,74.5,74.9,5.1,59.0,73.2
+STU-2151,Ananya Gupta,Grade 10,A,87.8,72.9,4.8,66.3,68.5
+STU-2152,Sameer Pandey,AI & DS - Sem 3,C,65.7,56.9,3.2,46.4,54.9
+STU-2153,Ritu Nair,Grade 12,A,74.1,63.5,3.7,52.2,60.9
+STU-2154,Aarav Aggarwal,Grade 11,B,77.1,59.9,2.2,54.5,52.9
+STU-2155,Isha Kulkarni,AI & DS - Sem 5,C,93.6,90.5,5.4,65.8,84.4
+STU-2156,Manish Yadav,Grade 10,C,78.8,73.9,5.1,65.0,66.2
+STU-2157,Amit Chopra,Grade 12,B,74.0,64.0,2.8,47.4,58.8
+STU-2158,Komal Bose,Grade 12,C,81.9,55.9,3.9,51.5,57.4
+STU-2159,Deepak Gupta,Grade 11,B,88.5,75.5,4.0,53.0,65.8
+STU-2160,Tanvi Mahammad,Grade 10,B,49.7,47.6,0.5,28.1,31.6
+STU-2161,Rahul Joshi,Grade 11,A,72.9,67.6,1.5,53.2,61.4
+STU-2162,Rahul Gupta,Grade 12,A,79.4,78.5,5.5,68.0,72.8
+STU-2163,Shreya Kulkarni,Grade 11,B,79.3,72.2,5.2,56.6,67.4
+STU-2164,Ritu Aggarwal,AI & DS - Sem 3,C,83.0,70.3,3.0,52.7,69.2
+STU-2165,Arjun Gupta,AI & DS - Sem 5,B,65.9,53.8,3.0,55.1,60.1
+STU-2166,Swati Mahammad,Grade 11,B,61.9,65.0,1.7,34.3,50.8
+STU-2167,Rohan Malhotra,AI & DS - Sem 5,B,78.5,68.4,2.3,48.6,59.6
+STU-2168,Neha Choudhury,Grade 10,B,52.9,65.0,2.1,27.8,50.2
+STU-2169,Varun Verma,Grade 11,B,65.7,68.6,4.9,51.4,57.7
+STU-2170,Siddharth Saxena,AI & DS - Sem 5,A,69.6,60.8,2.3,50.7,56.1
+STU-2171,Siddharth Deshmukh,Grade 12,B,90.4,62.2,2.5,57.1,65.6
+STU-2172,Rajesh Choudhury,Grade 12,C,82.2,75.2,3.6,57.3,69.1
+STU-2173,Harish Rao,AI & DS - Sem 3,A,83.7,62.6,3.0,56.3,70.5
+STU-2174,Rohan Menon,Grade 12,A,67.1,44.3,2.7,45.1,42.7
+STU-2175,Aarav Yadav,Grade 12,A,57.9,45.5,0.5,34.9,33.6
+STU-2176,Kunal Menon,AI & DS - Sem 3,A,64.6,64.7,3.9,49.0,57.1
+STU-2177,Komal Pillai,Grade 12,A,62.9,66.4,1.2,36.7,50.5
+STU-2178,Kunal Deshmukh,Grade 10,A,62.2,61.6,4.5,54.3,62.9
+STU-2179,Meera Aggarwal,Grade 11,B,77.5,72.3,3.6,49.0,65.7
+STU-2180,Riyaz Reddy,AI & DS - Sem 3,B,90.2,76.1,3.5,59.7,73.2
+STU-2181,Bhavna Kapoor,Grade 11,C,52.4,30.4,0.5,27.1,23.6
+STU-2182,Tara Ghosh,AI & DS - Sem 3,A,84.7,83.9,3.4,57.5,70.3
+STU-2183,Kavya Rao,Grade 11,A,72.9,76.7,3.8,51.5,65.3
+STU-2184,Manish Chatterjee,Grade 11,B,77.5,75.4,3.3,55.7,61.7
+STU-2185,Vikram Singh,Grade 12,A,87.1,61.0,3.3,61.2,59.0
+STU-2186,Manish Menon,Grade 10,B,80.3,65.6,1.2,45.0,61.3
+STU-2187,Shreya Yadav,Grade 12,A,61.4,59.0,1.8,40.4,47.5
+STU-2188,Komal Ghosh,AI & DS - Sem 5,A,53.7,52.8,1.4,34.3,49.6
+STU-2189,Isha Mehta,Grade 11,B,71.3,53.9,5.0,60.0,62.8
+STU-2190,Aarav Das,Grade 12,C,74.9,70.0,2.9,58.3,64.4
+STU-2191,Vikram Bhatia,Grade 11,A,97.1,94.4,4.1,64.5,78.7
+STU-2192,Vikram Menon,Grade 12,C,76.3,73.6,3.4,54.3,64.0
+STU-2193,Vikram Pillai,AI & DS - Sem 5,C,76.9,55.1,4.1,58.8,63.1
+STU-2194,Aditya Bose,AI & DS - Sem 5,A,66.1,50.4,2.2,37.9,45.1
+STU-2195,Sneha Rao,Grade 11,B,66.6,48.3,2.4,50.3,50.5
+STU-2196,Rajesh Singh,Grade 11,B,84.9,74.6,3.5,48.2,68.8
+STU-2197,Manish Mehta,Grade 11,B,65.5,54.4,3.4,44.2,49.6
+STU-2198,Nikhil Nair,AI & DS - Sem 3,C,92.4,73.3,3.4,56.0,73.3
+STU-2199,Varun Aggarwal,Grade 11,C,76.3,64.1,2.8,48.3,53.2
+STU-2200,Riyaz Das,Grade 10,A,84.7,70.8,3.1,64.1,67.4
